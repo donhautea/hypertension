@@ -3,6 +3,9 @@ import os
 from datetime import datetime
 from kpi_app import run_kpi_app  # Import the function from kpi_app.py
 
+# Set the page layout to wide
+st.set_page_config(layout="wide")
+
 # Log file path
 log_file = "user_log.txt"
 

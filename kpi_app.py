@@ -2,9 +2,7 @@ import streamlit as st
 import pandas as pd
 
 def run_kpi_app():
-    # Set the page layout to wide
-    st.set_page_config(layout="wide")
-
+    
     # Load the sample dataset
     df = pd.read_csv('Hypertension_Sample_Data.csv')  # Replace with the correct path to your CSV file
 
