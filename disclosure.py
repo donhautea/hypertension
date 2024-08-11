@@ -15,9 +15,9 @@ def log_user_info(first_name, last_name, email, decision):
 #st.title("Non-Disclosure Agreement (NDA)")
 
 st.markdown("""
-## Non-Disclosure Agreement (NDA)
+## Confidentiality Notice 
 
-All information stated within this site is strictly confidential and is considered the intellectual property of Adonis M. Hautea, Data Scientist, and System Developer. Unauthorized disclosure, copying, distribution, or use of any of the information contained herein is strictly prohibited and may result in legal action.
+All information stated within this site is strictly confidential and is considered the intellectual property of Adonis M. Hautea. Unauthorized disclosure, copying, distribution, or use of any of the information contained herein is strictly prohibited and may result in legal action.
 
 For more information, kindly contact:
 - **Phone:** 09178085600
