@@ -1,6 +1,7 @@
 import streamlit as st
 import os
 from datetime import datetime
+import subprocess
 
 # Log file path
 log_file = "user_log.txt"
@@ -12,8 +13,6 @@ def log_user_info(first_name, last_name, email, decision):
         f.write(log_entry)
 
 # Display the NDA on the main page
-#st.title("Non-Disclosure Agreement (NDA)")
-
 st.markdown("""
 ## Confidentiality Notice 
 
@@ -44,7 +43,7 @@ if first_name and last_name and email:
         if st.sidebar.button("Load KPI App"):
             st.sidebar.write("Loading KPI App...")
             # Load the KPI app (assuming `kpi_app.py` is located in the same directory)
-            os.system('streamlit run kpi_app.py')
+            subprocess.run(["streamlit", "run", "kpi_app.py"], shell=True)
     elif decision == "I disagree to the Confidentiality Notice":
         st.warning("You have disagreed with the Confidentiality Notice. Please close this page.")
         log_user_info(first_name, last_name, email, "Disagreed")
