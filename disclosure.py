@@ -10,19 +10,19 @@ st.set_page_config(layout="wide")
 log_file = "user_log.txt"
 
 # Function to log user information
-#def log_user_info(first_name, last_name, email, decision):
-#    with open(log_file, "a") as f:
-#        log_entry = f"{datetime.now()} - {first_name} {last_name}, {email}, Decision: {decision}\n"
-#        f.write(log_entry)
-
 def log_user_info(first_name, last_name, email, decision):
-    log_entry = f"{datetime.now()} - {first_name} {last_name}, {email}, Decision: {decision}\n"
-    st.write(log_entry)  # Debugging line to confirm execution
-    try:
-        with open(log_file, "a") as f:
-            f.write(log_entry)
-    except Exception as e:
-        st.error(f"An error occurred while logging user information: {e}")
+    with open(log_file, "a") as f:
+        log_entry = f"{datetime.now()} - {first_name} {last_name}, {email}, Decision: {decision}\n"
+        f.write(log_entry)
+
+#def log_user_info(first_name, last_name, email, decision):
+#    log_entry = f"{datetime.now()} - {first_name} {last_name}, {email}, Decision: {decision}\n"
+#    st.write(log_entry)  # Debugging line to confirm execution
+#    try:
+#        with open(log_file, "a") as f:
+#            f.write(log_entry)
+#    except Exception as e:
+#        st.error(f"An error occurred while logging user information: {e}")
 
 
 
