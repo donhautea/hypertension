@@ -7,7 +7,7 @@ from kpi_app import run_kpi_app  # Import the function from kpi_app.py
 st.set_page_config(layout="wide")
 
 # Log file path
-log_file = "user_log.txt"
+log_file = "user_log.csv"
 
 # Function to log user information
 def log_user_info(first_name, last_name, email, decision):
