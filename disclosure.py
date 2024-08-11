@@ -10,10 +10,21 @@ st.set_page_config(layout="wide")
 log_file = "user_log.txt"
 
 # Function to log user information
+#def log_user_info(first_name, last_name, email, decision):
+#    with open(log_file, "a") as f:
+#        log_entry = f"{datetime.now()} - {first_name} {last_name}, {email}, Decision: {decision}\n"
+#        f.write(log_entry)
+
 def log_user_info(first_name, last_name, email, decision):
-    with open(log_file, "a") as f:
-        log_entry = f"{datetime.now()} - {first_name} {last_name}, {email}, Decision: {decision}\n"
-        f.write(log_entry)
+    log_entry = f"{datetime.now()} - {first_name} {last_name}, {email}, Decision: {decision}\n"
+    st.write(log_entry)  # Debugging line to confirm execution
+    try:
+        with open(log_file, "a") as f:
+            f.write(log_entry)
+    except Exception as e:
+        st.error(f"An error occurred while logging user information: {e}")
+
+
 
 # Display the NDA on the main page
 st.markdown("""
@@ -41,15 +52,15 @@ if first_name and last_name and email:
 
     # Logic for handling agree/disagree options
     if decision == "I agree to the Confidentiality Notice":
+        log_user_info(first_name, last_name, email, "Agreed")  # Log decision
         st.sidebar.success("Thank you for agreeing to the Confidentiality Notice.")
-        log_user_info(first_name, last_name, email, "Agreed")
         if st.sidebar.button("Load KPI App"):
             st.sidebar.write("Loading KPI App...")
             # Call the function from kpi_app.py to run the KPI app
             run_kpi_app()
     elif decision == "I disagree to the Confidentiality Notice":
+        log_user_info(first_name, last_name, email, "Disagreed")  # Log decision
         st.warning("You have disagreed with the Confidentiality Notice. Please close this page.")
-        log_user_info(first_name, last_name, email, "Disagreed")
 else:
     st.warning("Please provide your complete information to proceed.")
     st.sidebar.warning("Complete the information form to enable the options.")
