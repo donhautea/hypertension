@@ -1,7 +1,7 @@
 import streamlit as st
 import os
 from datetime import datetime
-import subprocess
+from kpi_app import run_kpi_app  # Import the function from kpi_app.py
 
 # Log file path
 log_file = "user_log.txt"
@@ -42,8 +42,8 @@ if first_name and last_name and email:
         log_user_info(first_name, last_name, email, "Agreed")
         if st.sidebar.button("Load KPI App"):
             st.sidebar.write("Loading KPI App...")
-            # Load the KPI app (assuming `kpi_app.py` is located in the same directory)
-            subprocess.run(["streamlit", "run", "kpi_app.py"], shell=True)
+            # Call the function from kpi_app.py to run the KPI app
+            run_kpi_app()
     elif decision == "I disagree to the Confidentiality Notice":
         st.warning("You have disagreed with the Confidentiality Notice. Please close this page.")
         log_user_info(first_name, last_name, email, "Disagreed")
