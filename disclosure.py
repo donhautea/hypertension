@@ -35,18 +35,18 @@ if first_name and last_name and email:
     st.success("Information provided. You can now proceed.")
     
     # Option buttons for agreeing or disagreeing to the NDA
-    decision = st.radio("Please select your decision:", ("", "I agree to the Non-Disclosure Agreement (NDA)", "I disagree to the Non-Disclosure Agreement (NDA)"))
+    decision = st.radio("Please select your decision:", ("", "I agree to the Confidentiality Notice", "I disagree to the Confidentiality Notice"))
 
     # Logic for handling agree/disagree options
-    if decision == "I agree to the Non-Disclosure Agreement (NDA)":
-        st.sidebar.success("Thank you for agreeing to the NDA.")
+    if decision == "I agree to the Confidentiality Notice":
+        st.sidebar.success("Thank you for agreeing to the Confidentiality Notice.")
         log_user_info(first_name, last_name, email, "Agreed")
         if st.sidebar.button("Load KPI App"):
             st.sidebar.write("Loading KPI App...")
             # Load the KPI app (assuming `kpi_app.py` is located in the same directory)
             os.system('streamlit run kpi_app.py')
-    elif decision == "I disagree to the Non-Disclosure Agreement (NDA)":
-        st.warning("You have disagreed with the NDA. Please close this page.")
+    elif decision == "I disagree to the Confidentiality Notice":
+        st.warning("You have disagreed with the Confidentiality Notice. Please close this page.")
         log_user_info(first_name, last_name, email, "Disagreed")
 else:
     st.warning("Please provide your complete information to proceed.")
