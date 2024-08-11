@@ -12,7 +12,7 @@ def log_user_info(first_name, last_name, email, decision):
         f.write(log_entry)
 
 # Display the NDA on the main page
-st.title("Non-Disclosure Agreement (NDA)")
+#st.title("Non-Disclosure Agreement (NDA)")
 
 st.markdown("""
 ## Non-Disclosure Agreement (NDA)
