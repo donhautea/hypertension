@@ -1,0 +1,1001 @@
+Sex,Year of Birth,Diagnosis,Comorbidities,BP Machine Apparatus,Arm Used for Testing,Baseline Systolic BP,Baseline Diastolic BP,Follow-up Systolic BP,Follow-up Diastolic BP,Medication,Systolic BP Reduction,Diastolic BP Reduction
+Male,2002,Newly Diagnosed Hypertensive Patient,High Triglycerides,Aneroid,Left,146,89,166,107,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-20,-18
+Female,1956,Uncontrolled on other anti-hypertensive drugs,High Cholesterol,Digital,Right,135,86,161,94,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,-26,-8
+Male,1972,Uncontrolled on other anti-hypertensive drugs,High Triglycerides,Aneroid,Right,168,117,141,80,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,27,37
+Male,1968,Newly Diagnosed Hypertensive Patient,High Cholesterol,Digital,Left,134,106,121,77,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,13,29
+Male,1952,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Aneroid,Right,154,112,157,77,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-3,35
+Female,1985,Newly Diagnosed Hypertensive Patient,Diabetes,Digital,Left,131,80,151,102,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-20,-22
+Male,1974,Newly Diagnosed Hypertensive Patient,None,Aneroid,Left,160,113,136,76,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,24,37
+Male,1945,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Aneroid,Right,172,83,119,107,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,53,-24
+Male,1986,Uncontrolled on other anti-hypertensive drugs,High Triglycerides,Aneroid,Right,163,96,155,90,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,8,6
+Female,1964,Uncontrolled on other anti-hypertensive drugs,None,Aneroid,Left,145,83,166,77,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,-21,6
+Male,1949,Uncontrolled on other anti-hypertensive drugs,Diabetes,Aneroid,Left,166,105,161,90,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,5,15
+Male,1995,Uncontrolled on other anti-hypertensive drugs,Diabetes,Aneroid,Right,153,83,151,89,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,2,-6
+Male,1969,Uncontrolled on other anti-hypertensive drugs,High Cholesterol,Digital,Left,142,80,141,77,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,1,3
+Male,1944,Uncontrolled on other anti-hypertensive drugs,None,Digital,Right,150,86,151,100,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,-1,-14
+Female,1972,Newly Diagnosed Hypertensive Patient,High Cholesterol,Digital,Left,169,109,135,98,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,34,11
+Male,2004,Newly Diagnosed Hypertensive Patient,Hyperuricemia,Aneroid,Right,139,88,134,78,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,5,10
+Female,1957,Newly Diagnosed Hypertensive Patient,None,Aneroid,Left,131,114,120,84,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,11,30
+Female,1988,Newly Diagnosed Hypertensive Patient,Hyperuricemia,Digital,Left,142,87,132,99,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,10,-12
+Female,1950,Newly Diagnosed Hypertensive Patient,High Cholesterol,Aneroid,Right,123,103,143,95,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,-20,8
+Male,1965,Uncontrolled on other anti-hypertensive drugs,None,Aneroid,Left,142,98,166,79,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,-24,19
+Female,2002,Newly Diagnosed Hypertensive Patient,High Cholesterol,Aneroid,Left,167,115,161,98,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,6,17
+Male,1998,Newly Diagnosed Hypertensive Patient,None,Aneroid,Right,174,106,149,85,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,25,21
+Female,1966,Newly Diagnosed Hypertensive Patient,High Cholesterol,Aneroid,Left,167,111,132,105,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,35,6
+Female,1988,Newly Diagnosed Hypertensive Patient,Diabetes,Digital,Left,120,93,138,89,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,-18,4
+Female,1972,Newly Diagnosed Hypertensive Patient,High Cholesterol,Digital,Left,173,97,140,106,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,33,-9
+Female,1940,Newly Diagnosed Hypertensive Patient,Diabetes,Digital,Right,144,107,116,91,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,28,16
+Female,1960,Newly Diagnosed Hypertensive Patient,High Cholesterol,Digital,Right,121,108,149,76,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-28,32
+Female,1994,Uncontrolled on other anti-hypertensive drugs,None,Digital,Right,149,95,142,92,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,7,3
+Female,1945,Uncontrolled on other anti-hypertensive drugs,None,Aneroid,Left,122,114,130,109,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-8,5
+Female,1944,Newly Diagnosed Hypertensive Patient,None,Aneroid,Left,177,110,111,98,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,66,12
+Male,1942,Uncontrolled on other anti-hypertensive drugs,High Triglycerides,Aneroid,Left,140,83,127,85,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,13,-2
+Male,1992,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Aneroid,Left,144,116,156,107,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,-12,9
+Female,1962,Uncontrolled on other anti-hypertensive drugs,None,Digital,Right,139,96,142,97,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,-3,-1
+Female,1992,Uncontrolled on other anti-hypertensive drugs,Diabetes,Digital,Left,168,118,146,107,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,22,11
+Female,1976,Newly Diagnosed Hypertensive Patient,None,Digital,Left,171,105,143,100,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,28,5
+Male,1956,Uncontrolled on other anti-hypertensive drugs,High Triglycerides,Aneroid,Left,141,118,129,83,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,12,35
+Female,1940,Uncontrolled on other anti-hypertensive drugs,Diabetes,Digital,Right,140,83,144,102,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,-4,-19
+Male,1990,Uncontrolled on other anti-hypertensive drugs,High Triglycerides,Aneroid,Left,152,109,160,78,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-8,31
+Male,1984,Newly Diagnosed Hypertensive Patient,Diabetes,Digital,Left,171,109,159,96,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,12,13
+Male,1943,Newly Diagnosed Hypertensive Patient,High Cholesterol,Digital,Left,157,101,163,93,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,-6,8
+Male,2001,Newly Diagnosed Hypertensive Patient,Hyperuricemia,Aneroid,Left,134,90,127,82,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,7,8
+Male,2004,Newly Diagnosed Hypertensive Patient,Hyperuricemia,Aneroid,Left,177,81,155,95,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,22,-14
+Female,1971,Newly Diagnosed Hypertensive Patient,High Triglycerides,Digital,Right,177,91,133,98,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,44,-7
+Female,1973,Newly Diagnosed Hypertensive Patient,Hyperuricemia,Digital,Left,165,109,117,97,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,48,12
+Female,1978,Newly Diagnosed Hypertensive Patient,High Triglycerides,Aneroid,Left,171,115,139,97,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,32,18
+Female,1965,Uncontrolled on other anti-hypertensive drugs,High Triglycerides,Digital,Left,134,97,153,77,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,-19,20
+Female,1973,Uncontrolled on other anti-hypertensive drugs,High Triglycerides,Digital,Left,165,105,162,92,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,3,13
+Male,1993,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Aneroid,Left,144,86,119,98,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,25,-12
+Female,1942,Newly Diagnosed Hypertensive Patient,High Triglycerides,Digital,Left,140,80,132,74,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,8,6
+Female,1989,Newly Diagnosed Hypertensive Patient,Hyperuricemia,Aneroid,Left,143,105,161,76,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,-18,29
+Male,1951,Newly Diagnosed Hypertensive Patient,High Triglycerides,Digital,Left,176,102,158,105,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,18,-3
+Female,2004,Newly Diagnosed Hypertensive Patient,None,Aneroid,Left,177,105,120,96,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,57,9
+Male,1993,Newly Diagnosed Hypertensive Patient,High Triglycerides,Digital,Left,124,85,111,71,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,13,14
+Female,1944,Uncontrolled on other anti-hypertensive drugs,Diabetes,Aneroid,Right,125,85,167,94,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,-42,-9
+Male,1996,Uncontrolled on other anti-hypertensive drugs,High Triglycerides,Digital,Right,168,87,135,78,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,33,9
+Female,1956,Newly Diagnosed Hypertensive Patient,High Cholesterol,Aneroid,Right,162,103,145,96,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,17,7
+Female,1986,Newly Diagnosed Hypertensive Patient,High Triglycerides,Digital,Right,167,101,142,70,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,25,31
+Male,1962,Newly Diagnosed Hypertensive Patient,Diabetes,Digital,Left,163,98,156,92,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,7,6
+Male,1953,Newly Diagnosed Hypertensive Patient,Diabetes,Digital,Right,166,116,122,79,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,44,37
+Male,1990,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Digital,Right,142,97,149,94,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-7,3
+Male,1977,Newly Diagnosed Hypertensive Patient,None,Digital,Left,123,110,134,72,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,-11,38
+Male,2003,Newly Diagnosed Hypertensive Patient,High Triglycerides,Digital,Right,146,116,113,75,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,33,41
+Male,1977,Newly Diagnosed Hypertensive Patient,Hyperuricemia,Digital,Right,137,109,151,75,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,-14,34
+Male,1989,Newly Diagnosed Hypertensive Patient,None,Digital,Left,140,112,128,71,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,12,41
+Male,1969,Uncontrolled on other anti-hypertensive drugs,High Triglycerides,Digital,Left,147,89,127,87,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,20,2
+Female,1990,Newly Diagnosed Hypertensive Patient,High Cholesterol,Aneroid,Left,154,116,146,92,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,8,24
+Female,2002,Newly Diagnosed Hypertensive Patient,High Triglycerides,Aneroid,Right,141,91,139,71,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,2,20
+Male,1991,Uncontrolled on other anti-hypertensive drugs,Diabetes,Digital,Right,159,109,128,81,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,31,28
+Female,1977,Uncontrolled on other anti-hypertensive drugs,Diabetes,Aneroid,Left,142,106,167,91,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,-25,15
+Female,1969,Uncontrolled on other anti-hypertensive drugs,High Cholesterol,Digital,Left,122,118,132,106,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,-10,12
+Female,1990,Newly Diagnosed Hypertensive Patient,Hyperuricemia,Digital,Right,159,88,168,89,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,-9,-1
+Female,1944,Newly Diagnosed Hypertensive Patient,None,Aneroid,Left,169,100,163,108,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,6,-8
+Male,1968,Uncontrolled on other anti-hypertensive drugs,High Triglycerides,Digital,Right,129,91,125,93,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,4,-2
+Female,1943,Uncontrolled on other anti-hypertensive drugs,Diabetes,Digital,Left,144,108,110,89,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,34,19
+Male,1949,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Aneroid,Left,171,112,121,70,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,50,42
+Female,1995,Uncontrolled on other anti-hypertensive drugs,High Cholesterol,Aneroid,Right,168,94,133,70,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,35,24
+Female,1956,Uncontrolled on other anti-hypertensive drugs,Diabetes,Digital,Left,127,81,143,86,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,-16,-5
+Female,1956,Uncontrolled on other anti-hypertensive drugs,High Cholesterol,Aneroid,Left,174,118,162,70,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,12,48
+Male,1973,Newly Diagnosed Hypertensive Patient,High Triglycerides,Aneroid,Left,130,97,166,99,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,-36,-2
+Female,1945,Newly Diagnosed Hypertensive Patient,None,Digital,Right,124,82,117,72,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,7,10
+Male,1992,Newly Diagnosed Hypertensive Patient,Diabetes,Aneroid,Left,177,86,127,80,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,50,6
+Female,1982,Uncontrolled on other anti-hypertensive drugs,Diabetes,Aneroid,Left,164,97,166,93,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,-2,4
+Male,1962,Uncontrolled on other anti-hypertensive drugs,High Triglycerides,Digital,Left,172,117,157,91,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,15,26
+Female,1994,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Aneroid,Left,174,116,114,95,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,60,21
+Male,1955,Uncontrolled on other anti-hypertensive drugs,None,Aneroid,Left,156,112,135,82,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,21,30
+Male,1947,Uncontrolled on other anti-hypertensive drugs,Diabetes,Digital,Left,175,110,139,70,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,36,40
+Female,1943,Uncontrolled on other anti-hypertensive drugs,None,Digital,Right,178,90,163,93,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,15,-3
+Male,1943,Newly Diagnosed Hypertensive Patient,Diabetes,Digital,Right,164,83,122,79,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,42,4
+Female,1995,Newly Diagnosed Hypertensive Patient,None,Aneroid,Left,157,97,128,104,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,29,-7
+Female,1964,Uncontrolled on other anti-hypertensive drugs,High Cholesterol,Digital,Right,148,83,138,93,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,10,-10
+Female,1966,Newly Diagnosed Hypertensive Patient,Diabetes,Digital,Right,124,113,112,97,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,12,16
+Female,1971,Uncontrolled on other anti-hypertensive drugs,None,Aneroid,Left,128,108,135,105,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,-7,3
+Female,1989,Newly Diagnosed Hypertensive Patient,Hyperuricemia,Digital,Right,178,103,149,85,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,29,18
+Female,2000,Uncontrolled on other anti-hypertensive drugs,High Cholesterol,Digital,Right,167,101,168,109,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,-1,-8
+Female,1990,Uncontrolled on other anti-hypertensive drugs,High Cholesterol,Digital,Right,121,81,167,85,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,-46,-4
+Female,1958,Newly Diagnosed Hypertensive Patient,Hyperuricemia,Digital,Right,120,85,167,86,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,-47,-1
+Female,1960,Newly Diagnosed Hypertensive Patient,None,Aneroid,Right,159,104,121,84,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,38,20
+Female,1944,Uncontrolled on other anti-hypertensive drugs,High Triglycerides,Digital,Right,179,100,111,85,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,68,15
+Female,1981,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Digital,Right,170,95,120,84,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,50,11
+Male,2000,Newly Diagnosed Hypertensive Patient,None,Aneroid,Right,149,110,153,103,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,-4,7
+Male,1961,Newly Diagnosed Hypertensive Patient,Hyperuricemia,Digital,Left,130,93,137,80,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-7,13
+Female,1960,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Aneroid,Left,147,118,127,70,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,20,48
+Female,1940,Newly Diagnosed Hypertensive Patient,Diabetes,Aneroid,Right,163,107,122,84,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,41,23
+Female,1944,Uncontrolled on other anti-hypertensive drugs,None,Aneroid,Right,131,111,146,95,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,-15,16
+Female,1951,Uncontrolled on other anti-hypertensive drugs,High Triglycerides,Digital,Left,158,107,131,73,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,27,34
+Female,1985,Uncontrolled on other anti-hypertensive drugs,Diabetes,Aneroid,Right,145,88,121,74,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,24,14
+Female,1973,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Aneroid,Right,132,101,111,104,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,21,-3
+Female,1988,Newly Diagnosed Hypertensive Patient,Hyperuricemia,Aneroid,Left,178,111,146,82,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,32,29
+Female,1984,Newly Diagnosed Hypertensive Patient,Hyperuricemia,Digital,Left,127,84,116,79,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,11,5
+Male,1966,Newly Diagnosed Hypertensive Patient,None,Digital,Left,173,102,135,80,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,38,22
+Female,1965,Newly Diagnosed Hypertensive Patient,None,Digital,Right,147,84,135,87,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,12,-3
+Male,1986,Newly Diagnosed Hypertensive Patient,Diabetes,Digital,Right,177,111,133,103,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,44,8
+Female,1995,Newly Diagnosed Hypertensive Patient,High Triglycerides,Digital,Left,149,89,121,108,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,28,-19
+Female,2002,Newly Diagnosed Hypertensive Patient,Diabetes,Digital,Left,128,118,125,92,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,3,26
+Male,1987,Uncontrolled on other anti-hypertensive drugs,High Cholesterol,Digital,Right,158,94,132,76,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,26,18
+Female,2000,Newly Diagnosed Hypertensive Patient,Hyperuricemia,Aneroid,Left,150,86,149,108,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,1,-22
+Male,1965,Newly Diagnosed Hypertensive Patient,Hyperuricemia,Aneroid,Right,177,108,169,72,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,8,36
+Female,1975,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Aneroid,Right,140,82,118,81,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,22,1
+Female,1940,Newly Diagnosed Hypertensive Patient,Diabetes,Aneroid,Left,175,98,141,76,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,34,22
+Male,1947,Newly Diagnosed Hypertensive Patient,Diabetes,Digital,Left,166,89,124,95,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,42,-6
+Female,1991,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Aneroid,Right,153,107,146,102,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,7,5
+Male,1986,Newly Diagnosed Hypertensive Patient,Diabetes,Aneroid,Left,174,108,122,106,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,52,2
+Female,1995,Newly Diagnosed Hypertensive Patient,None,Aneroid,Left,150,94,114,84,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,36,10
+Male,1953,Newly Diagnosed Hypertensive Patient,None,Aneroid,Left,171,114,120,71,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,51,43
+Male,1967,Uncontrolled on other anti-hypertensive drugs,Diabetes,Digital,Left,144,85,119,76,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,25,9
+Female,1941,Newly Diagnosed Hypertensive Patient,Hyperuricemia,Digital,Right,131,91,161,101,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,-30,-10
+Female,1965,Newly Diagnosed Hypertensive Patient,Diabetes,Digital,Right,120,117,122,73,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-2,44
+Male,1953,Uncontrolled on other anti-hypertensive drugs,Diabetes,Aneroid,Right,174,92,150,89,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,24,3
+Female,1998,Newly Diagnosed Hypertensive Patient,Diabetes,Digital,Right,141,108,162,105,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-21,3
+Female,1995,Uncontrolled on other anti-hypertensive drugs,High Cholesterol,Aneroid,Left,159,98,155,101,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,4,-3
+Female,1946,Uncontrolled on other anti-hypertensive drugs,None,Digital,Left,156,82,159,97,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,-3,-15
+Male,1942,Newly Diagnosed Hypertensive Patient,High Triglycerides,Digital,Right,166,87,124,82,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,42,5
+Male,1962,Uncontrolled on other anti-hypertensive drugs,High Triglycerides,Digital,Right,120,87,151,70,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,-31,17
+Male,1957,Uncontrolled on other anti-hypertensive drugs,High Cholesterol,Digital,Left,120,99,165,104,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,-45,-5
+Male,1977,Newly Diagnosed Hypertensive Patient,Diabetes,Digital,Right,176,83,116,99,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,60,-16
+Male,1954,Uncontrolled on other anti-hypertensive drugs,High Cholesterol,Aneroid,Right,161,100,149,105,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,12,-5
+Male,2003,Uncontrolled on other anti-hypertensive drugs,High Cholesterol,Digital,Left,173,82,137,94,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,36,-12
+Male,1967,Newly Diagnosed Hypertensive Patient,Hyperuricemia,Aneroid,Right,161,87,141,85,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,20,2
+Male,1978,Newly Diagnosed Hypertensive Patient,None,Aneroid,Left,140,102,144,88,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,-4,14
+Male,1996,Newly Diagnosed Hypertensive Patient,High Triglycerides,Aneroid,Left,134,95,124,70,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,10,25
+Female,1956,Uncontrolled on other anti-hypertensive drugs,Diabetes,Aneroid,Right,136,92,157,74,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,-21,18
+Male,1983,Newly Diagnosed Hypertensive Patient,High Triglycerides,Aneroid,Left,141,82,145,91,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,-4,-9
+Female,1964,Uncontrolled on other anti-hypertensive drugs,High Triglycerides,Digital,Right,157,88,130,93,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,27,-5
+Female,1956,Uncontrolled on other anti-hypertensive drugs,None,Digital,Left,154,93,115,106,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,39,-13
+Female,1952,Uncontrolled on other anti-hypertensive drugs,High Triglycerides,Digital,Right,164,92,110,105,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,54,-13
+Male,1964,Uncontrolled on other anti-hypertensive drugs,High Triglycerides,Digital,Right,135,86,113,105,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,22,-19
+Male,1949,Uncontrolled on other anti-hypertensive drugs,High Cholesterol,Aneroid,Right,127,94,120,73,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,7,21
+Male,1957,Uncontrolled on other anti-hypertensive drugs,None,Digital,Left,166,86,153,105,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,13,-19
+Male,1973,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Digital,Left,136,117,135,87,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,1,30
+Female,1947,Newly Diagnosed Hypertensive Patient,Diabetes,Aneroid,Right,136,113,146,85,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,-10,28
+Male,1979,Newly Diagnosed Hypertensive Patient,High Triglycerides,Aneroid,Left,173,101,132,87,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,41,14
+Male,1981,Uncontrolled on other anti-hypertensive drugs,Diabetes,Digital,Right,145,103,138,91,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,7,12
+Male,1980,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Digital,Right,132,116,130,71,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,2,45
+Male,1945,Newly Diagnosed Hypertensive Patient,Diabetes,Aneroid,Left,136,80,157,90,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-21,-10
+Male,1991,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Digital,Right,157,89,154,105,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,3,-16
+Female,1965,Newly Diagnosed Hypertensive Patient,High Cholesterol,Digital,Left,136,95,154,108,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,-18,-13
+Male,2003,Newly Diagnosed Hypertensive Patient,High Triglycerides,Digital,Right,167,87,158,108,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,9,-21
+Female,1998,Newly Diagnosed Hypertensive Patient,Hyperuricemia,Digital,Left,133,104,136,98,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,-3,6
+Male,1995,Uncontrolled on other anti-hypertensive drugs,Diabetes,Aneroid,Right,164,91,148,95,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,16,-4
+Female,1998,Uncontrolled on other anti-hypertensive drugs,High Triglycerides,Aneroid,Right,125,104,149,90,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,-24,14
+Male,1972,Newly Diagnosed Hypertensive Patient,High Cholesterol,Aneroid,Left,154,96,122,86,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,32,10
+Male,1992,Newly Diagnosed Hypertensive Patient,High Triglycerides,Digital,Right,165,105,132,85,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,33,20
+Female,1961,Newly Diagnosed Hypertensive Patient,Hyperuricemia,Digital,Right,133,93,168,100,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,-35,-7
+Female,1960,Newly Diagnosed Hypertensive Patient,High Cholesterol,Digital,Left,166,115,125,78,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,41,37
+Female,1943,Newly Diagnosed Hypertensive Patient,Diabetes,Digital,Right,127,102,139,100,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,-12,2
+Male,2001,Uncontrolled on other anti-hypertensive drugs,High Cholesterol,Digital,Left,134,85,113,83,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,21,2
+Female,2001,Newly Diagnosed Hypertensive Patient,High Cholesterol,Aneroid,Right,173,84,149,106,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,24,-22
+Male,1963,Uncontrolled on other anti-hypertensive drugs,None,Digital,Left,146,104,125,71,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,21,33
+Male,1994,Newly Diagnosed Hypertensive Patient,High Cholesterol,Digital,Right,132,97,140,83,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,-8,14
+Female,1948,Uncontrolled on other anti-hypertensive drugs,High Cholesterol,Aneroid,Right,168,92,162,102,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,6,-10
+Female,1942,Uncontrolled on other anti-hypertensive drugs,High Triglycerides,Digital,Right,150,93,151,104,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-1,-11
+Male,1970,Uncontrolled on other anti-hypertensive drugs,Diabetes,Aneroid,Left,172,107,134,108,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,38,-1
+Male,1979,Uncontrolled on other anti-hypertensive drugs,High Triglycerides,Aneroid,Left,175,97,153,89,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,22,8
+Female,1975,Uncontrolled on other anti-hypertensive drugs,High Triglycerides,Aneroid,Left,154,107,121,71,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,33,36
+Female,1963,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Aneroid,Left,179,106,135,88,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,44,18
+Female,1945,Newly Diagnosed Hypertensive Patient,High Triglycerides,Aneroid,Right,125,111,146,106,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-21,5
+Male,1943,Uncontrolled on other anti-hypertensive drugs,None,Digital,Right,124,88,157,87,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-33,1
+Male,1945,Newly Diagnosed Hypertensive Patient,None,Aneroid,Left,141,119,142,85,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-1,34
+Male,1990,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Aneroid,Left,177,111,137,73,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,40,38
+Male,2001,Uncontrolled on other anti-hypertensive drugs,Diabetes,Digital,Left,168,99,118,81,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,50,18
+Male,1996,Newly Diagnosed Hypertensive Patient,Diabetes,Digital,Right,142,107,121,98,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,21,9
+Male,1947,Uncontrolled on other anti-hypertensive drugs,High Triglycerides,Aneroid,Left,144,112,114,76,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,30,36
+Female,1965,Newly Diagnosed Hypertensive Patient,High Triglycerides,Digital,Left,153,83,163,83,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-10,0
+Male,1990,Newly Diagnosed Hypertensive Patient,High Triglycerides,Digital,Right,145,113,161,81,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,-16,32
+Male,1984,Newly Diagnosed Hypertensive Patient,Diabetes,Aneroid,Right,166,82,163,104,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,3,-22
+Male,1983,Newly Diagnosed Hypertensive Patient,High Cholesterol,Aneroid,Left,124,105,137,74,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,-13,31
+Female,1944,Uncontrolled on other anti-hypertensive drugs,None,Digital,Right,145,87,165,86,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,-20,1
+Male,1965,Uncontrolled on other anti-hypertensive drugs,High Cholesterol,Aneroid,Left,139,85,144,101,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,-5,-16
+Male,1958,Newly Diagnosed Hypertensive Patient,High Cholesterol,Aneroid,Right,125,95,114,79,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,11,16
+Female,1959,Uncontrolled on other anti-hypertensive drugs,Diabetes,Digital,Left,125,103,143,86,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,-18,17
+Male,1951,Uncontrolled on other anti-hypertensive drugs,High Cholesterol,Aneroid,Left,178,118,155,74,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,23,44
+Male,1986,Newly Diagnosed Hypertensive Patient,Hyperuricemia,Aneroid,Left,169,109,143,78,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,26,31
+Male,1940,Uncontrolled on other anti-hypertensive drugs,High Triglycerides,Aneroid,Left,137,92,122,102,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,15,-10
+Male,1953,Newly Diagnosed Hypertensive Patient,Hyperuricemia,Aneroid,Right,123,84,148,105,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,-25,-21
+Male,2003,Newly Diagnosed Hypertensive Patient,None,Aneroid,Right,136,104,151,105,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,-15,-1
+Female,1977,Uncontrolled on other anti-hypertensive drugs,High Triglycerides,Digital,Right,176,99,154,87,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,22,12
+Female,1976,Uncontrolled on other anti-hypertensive drugs,High Cholesterol,Digital,Right,133,97,157,78,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-24,19
+Female,1950,Uncontrolled on other anti-hypertensive drugs,None,Aneroid,Left,133,97,167,98,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,-34,-1
+Male,1942,Newly Diagnosed Hypertensive Patient,High Triglycerides,Digital,Left,132,81,123,83,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,9,-2
+Male,1972,Newly Diagnosed Hypertensive Patient,High Cholesterol,Aneroid,Right,126,89,120,94,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,6,-5
+Male,1945,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Aneroid,Right,163,91,151,84,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,12,7
+Female,1989,Uncontrolled on other anti-hypertensive drugs,High Triglycerides,Aneroid,Right,174,92,147,75,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,27,17
+Male,1949,Uncontrolled on other anti-hypertensive drugs,High Cholesterol,Aneroid,Right,134,90,113,98,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,21,-8
+Male,1944,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Aneroid,Right,138,98,162,84,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-24,14
+Female,1962,Newly Diagnosed Hypertensive Patient,None,Digital,Left,162,114,142,98,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,20,16
+Male,1949,Uncontrolled on other anti-hypertensive drugs,None,Digital,Left,166,118,116,73,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,50,45
+Female,1983,Newly Diagnosed Hypertensive Patient,None,Aneroid,Left,163,105,165,87,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-2,18
+Female,1941,Newly Diagnosed Hypertensive Patient,None,Digital,Right,154,93,150,108,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,4,-15
+Female,1952,Uncontrolled on other anti-hypertensive drugs,Diabetes,Aneroid,Right,136,103,117,85,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,19,18
+Male,1979,Uncontrolled on other anti-hypertensive drugs,High Triglycerides,Digital,Right,154,80,146,80,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,8,0
+Male,1941,Uncontrolled on other anti-hypertensive drugs,High Triglycerides,Aneroid,Right,138,101,160,83,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-22,18
+Male,2004,Newly Diagnosed Hypertensive Patient,Diabetes,Digital,Left,139,102,119,72,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,20,30
+Male,2002,Uncontrolled on other anti-hypertensive drugs,High Cholesterol,Aneroid,Left,155,98,152,107,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,3,-9
+Male,1956,Uncontrolled on other anti-hypertensive drugs,High Cholesterol,Aneroid,Right,154,97,166,87,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-12,10
+Male,1948,Newly Diagnosed Hypertensive Patient,None,Digital,Left,151,91,124,89,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,27,2
+Male,1954,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Digital,Left,177,107,147,94,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,30,13
+Female,1963,Newly Diagnosed Hypertensive Patient,High Cholesterol,Aneroid,Right,167,107,124,107,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,43,0
+Male,1977,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Digital,Right,163,112,114,82,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,49,30
+Female,1974,Newly Diagnosed Hypertensive Patient,High Triglycerides,Aneroid,Right,159,98,138,73,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,21,25
+Male,1988,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Digital,Right,143,107,128,83,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,15,24
+Male,2001,Uncontrolled on other anti-hypertensive drugs,High Triglycerides,Digital,Right,136,116,163,102,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-27,14
+Male,1999,Newly Diagnosed Hypertensive Patient,Diabetes,Aneroid,Right,126,105,160,97,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-34,8
+Female,1989,Newly Diagnosed Hypertensive Patient,Diabetes,Digital,Left,162,114,119,106,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,43,8
+Female,1948,Uncontrolled on other anti-hypertensive drugs,None,Digital,Left,169,113,121,77,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,48,36
+Female,1973,Newly Diagnosed Hypertensive Patient,High Cholesterol,Aneroid,Right,120,114,163,103,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,-43,11
+Female,1974,Newly Diagnosed Hypertensive Patient,None,Digital,Left,154,119,113,74,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,41,45
+Male,1940,Newly Diagnosed Hypertensive Patient,High Triglycerides,Aneroid,Right,151,95,140,74,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,11,21
+Female,1979,Newly Diagnosed Hypertensive Patient,None,Aneroid,Right,155,117,127,100,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,28,17
+Male,2003,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Aneroid,Right,132,92,125,78,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,7,14
+Male,1961,Uncontrolled on other anti-hypertensive drugs,High Triglycerides,Aneroid,Right,125,102,149,101,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,-24,1
+Female,1999,Newly Diagnosed Hypertensive Patient,Diabetes,Aneroid,Left,177,101,145,102,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,32,-1
+Female,2003,Newly Diagnosed Hypertensive Patient,High Cholesterol,Digital,Right,133,95,134,72,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,-1,23
+Female,1950,Newly Diagnosed Hypertensive Patient,High Triglycerides,Aneroid,Left,156,107,132,99,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,24,8
+Female,1953,Newly Diagnosed Hypertensive Patient,High Triglycerides,Aneroid,Right,167,114,121,81,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,46,33
+Female,1999,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Digital,Right,134,87,143,98,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-9,-11
+Female,1969,Uncontrolled on other anti-hypertensive drugs,High Cholesterol,Digital,Right,166,101,145,72,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,21,29
+Female,1974,Newly Diagnosed Hypertensive Patient,Diabetes,Digital,Left,123,100,146,95,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-23,5
+Female,1976,Newly Diagnosed Hypertensive Patient,High Triglycerides,Aneroid,Right,159,105,112,99,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,47,6
+Male,1944,Newly Diagnosed Hypertensive Patient,High Triglycerides,Aneroid,Right,178,119,118,78,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,60,41
+Female,1965,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Aneroid,Right,135,100,162,95,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-27,5
+Female,2001,Newly Diagnosed Hypertensive Patient,None,Digital,Left,147,104,127,71,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,20,33
+Male,1943,Uncontrolled on other anti-hypertensive drugs,Diabetes,Aneroid,Left,135,80,152,72,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,-17,8
+Female,1981,Newly Diagnosed Hypertensive Patient,High Cholesterol,Digital,Left,123,85,144,73,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,-21,12
+Male,1957,Uncontrolled on other anti-hypertensive drugs,High Triglycerides,Aneroid,Right,164,102,166,94,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,-2,8
+Male,1979,Newly Diagnosed Hypertensive Patient,High Triglycerides,Digital,Left,145,102,164,82,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-19,20
+Female,1978,Uncontrolled on other anti-hypertensive drugs,Diabetes,Aneroid,Right,147,102,143,108,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,4,-6
+Male,1953,Newly Diagnosed Hypertensive Patient,None,Aneroid,Left,151,111,150,104,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,1,7
+Male,1971,Newly Diagnosed Hypertensive Patient,High Triglycerides,Aneroid,Left,164,109,123,92,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,41,17
+Male,1990,Newly Diagnosed Hypertensive Patient,Diabetes,Digital,Right,121,92,113,78,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,8,14
+Male,1977,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Digital,Left,150,97,138,71,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,12,26
+Female,1962,Newly Diagnosed Hypertensive Patient,None,Aneroid,Right,122,102,150,100,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,-28,2
+Male,2002,Uncontrolled on other anti-hypertensive drugs,High Cholesterol,Aneroid,Right,173,94,154,71,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,19,23
+Female,1954,Uncontrolled on other anti-hypertensive drugs,High Triglycerides,Aneroid,Left,127,112,159,101,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,-32,11
+Male,1964,Newly Diagnosed Hypertensive Patient,Diabetes,Digital,Right,143,100,124,87,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,19,13
+Male,1956,Newly Diagnosed Hypertensive Patient,Hyperuricemia,Aneroid,Right,134,118,137,82,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,-3,36
+Male,1992,Newly Diagnosed Hypertensive Patient,High Cholesterol,Aneroid,Left,162,102,151,74,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,11,28
+Male,1990,Uncontrolled on other anti-hypertensive drugs,Diabetes,Aneroid,Left,150,106,125,79,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,25,27
+Female,1978,Newly Diagnosed Hypertensive Patient,Diabetes,Aneroid,Right,128,97,121,94,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,7,3
+Female,1990,Uncontrolled on other anti-hypertensive drugs,High Cholesterol,Digital,Left,158,103,161,103,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-3,0
+Male,1945,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Digital,Right,164,119,114,106,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,50,13
+Male,1946,Newly Diagnosed Hypertensive Patient,Hyperuricemia,Aneroid,Right,121,86,143,99,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,-22,-13
+Female,1990,Newly Diagnosed Hypertensive Patient,None,Aneroid,Left,127,99,151,76,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-24,23
+Male,1981,Newly Diagnosed Hypertensive Patient,High Triglycerides,Digital,Left,126,106,110,75,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,16,31
+Male,2003,Newly Diagnosed Hypertensive Patient,High Cholesterol,Digital,Left,175,85,148,72,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,27,13
+Male,1954,Newly Diagnosed Hypertensive Patient,High Cholesterol,Aneroid,Left,163,106,141,82,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,22,24
+Female,1968,Newly Diagnosed Hypertensive Patient,High Cholesterol,Digital,Right,170,88,135,72,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,35,16
+Female,1972,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Digital,Right,158,110,126,95,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,32,15
+Female,1966,Uncontrolled on other anti-hypertensive drugs,High Triglycerides,Aneroid,Left,161,100,157,93,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,4,7
+Male,1975,Uncontrolled on other anti-hypertensive drugs,None,Digital,Left,176,105,168,75,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,8,30
+Male,1968,Newly Diagnosed Hypertensive Patient,Diabetes,Digital,Right,135,119,136,81,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,-1,38
+Female,1977,Uncontrolled on other anti-hypertensive drugs,Diabetes,Aneroid,Right,154,92,133,105,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,21,-13
+Female,1996,Uncontrolled on other anti-hypertensive drugs,High Cholesterol,Aneroid,Right,149,102,144,71,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,5,31
+Female,1966,Uncontrolled on other anti-hypertensive drugs,High Triglycerides,Digital,Right,129,99,155,80,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,-26,19
+Female,1994,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Aneroid,Left,157,116,151,108,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,6,8
+Male,1972,Uncontrolled on other anti-hypertensive drugs,High Triglycerides,Digital,Right,137,107,163,103,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,-26,4
+Female,1949,Newly Diagnosed Hypertensive Patient,High Triglycerides,Aneroid,Right,169,96,148,95,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,21,1
+Male,1944,Newly Diagnosed Hypertensive Patient,Hyperuricemia,Digital,Left,124,107,135,87,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-11,20
+Female,1977,Uncontrolled on other anti-hypertensive drugs,High Cholesterol,Aneroid,Right,172,81,158,90,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,14,-9
+Male,1952,Uncontrolled on other anti-hypertensive drugs,High Triglycerides,Digital,Right,148,104,147,105,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,1,-1
+Female,1970,Uncontrolled on other anti-hypertensive drugs,Diabetes,Digital,Left,158,85,132,109,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,26,-24
+Female,1986,Newly Diagnosed Hypertensive Patient,Hyperuricemia,Digital,Left,179,90,131,91,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,48,-1
+Female,1991,Newly Diagnosed Hypertensive Patient,None,Aneroid,Left,153,117,113,99,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,40,18
+Female,1995,Uncontrolled on other anti-hypertensive drugs,High Cholesterol,Aneroid,Right,162,85,158,99,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,4,-14
+Male,1954,Newly Diagnosed Hypertensive Patient,Hyperuricemia,Digital,Right,164,90,168,77,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,-4,13
+Female,1968,Newly Diagnosed Hypertensive Patient,None,Digital,Left,142,93,118,103,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,24,-10
+Male,1947,Uncontrolled on other anti-hypertensive drugs,None,Aneroid,Left,124,81,113,78,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,11,3
+Male,1944,Newly Diagnosed Hypertensive Patient,High Triglycerides,Aneroid,Right,149,119,116,89,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,33,30
+Male,1968,Newly Diagnosed Hypertensive Patient,High Triglycerides,Aneroid,Left,125,82,132,109,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-7,-27
+Male,1986,Uncontrolled on other anti-hypertensive drugs,High Triglycerides,Aneroid,Left,175,114,111,94,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,64,20
+Female,1984,Newly Diagnosed Hypertensive Patient,Hyperuricemia,Aneroid,Left,177,112,158,88,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,19,24
+Male,1941,Newly Diagnosed Hypertensive Patient,Hyperuricemia,Aneroid,Right,165,103,133,74,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,32,29
+Male,1966,Uncontrolled on other anti-hypertensive drugs,High Cholesterol,Digital,Right,163,98,149,80,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,14,18
+Male,1975,Newly Diagnosed Hypertensive Patient,High Triglycerides,Aneroid,Right,123,97,164,84,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-41,13
+Female,1975,Newly Diagnosed Hypertensive Patient,None,Digital,Right,148,103,140,77,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,8,26
+Female,1965,Uncontrolled on other anti-hypertensive drugs,Diabetes,Aneroid,Right,142,114,156,88,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-14,26
+Female,1982,Uncontrolled on other anti-hypertensive drugs,High Cholesterol,Aneroid,Right,125,80,140,92,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-15,-12
+Female,1966,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Digital,Left,151,115,156,96,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-5,19
+Male,1959,Newly Diagnosed Hypertensive Patient,High Cholesterol,Digital,Right,161,104,149,109,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,12,-5
+Male,1950,Uncontrolled on other anti-hypertensive drugs,High Cholesterol,Aneroid,Right,137,113,157,101,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,-20,12
+Female,1977,Newly Diagnosed Hypertensive Patient,High Cholesterol,Digital,Left,134,104,160,95,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,-26,9
+Male,1945,Uncontrolled on other anti-hypertensive drugs,High Cholesterol,Digital,Right,159,95,152,96,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,7,-1
+Male,1962,Newly Diagnosed Hypertensive Patient,Diabetes,Digital,Right,177,113,143,88,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,34,25
+Male,1986,Uncontrolled on other anti-hypertensive drugs,High Triglycerides,Digital,Left,151,108,164,98,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,-13,10
+Female,1985,Uncontrolled on other anti-hypertensive drugs,None,Aneroid,Left,128,98,133,108,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,-5,-10
+Female,1951,Uncontrolled on other anti-hypertensive drugs,High Cholesterol,Digital,Left,156,102,158,102,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,-2,0
+Male,1952,Uncontrolled on other anti-hypertensive drugs,High Cholesterol,Aneroid,Right,129,98,169,88,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,-40,10
+Female,2001,Newly Diagnosed Hypertensive Patient,High Cholesterol,Aneroid,Left,139,104,135,106,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,4,-2
+Female,1999,Uncontrolled on other anti-hypertensive drugs,High Triglycerides,Aneroid,Right,125,95,125,88,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,0,7
+Female,1982,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Aneroid,Right,167,88,166,102,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,1,-14
+Female,1944,Newly Diagnosed Hypertensive Patient,Hyperuricemia,Digital,Right,175,80,156,85,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,19,-5
+Female,1976,Uncontrolled on other anti-hypertensive drugs,Diabetes,Digital,Right,178,98,122,92,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,56,6
+Male,1970,Newly Diagnosed Hypertensive Patient,Hyperuricemia,Aneroid,Left,122,112,124,76,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,-2,36
+Female,1948,Uncontrolled on other anti-hypertensive drugs,High Cholesterol,Aneroid,Left,161,113,136,95,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,25,18
+Male,1990,Uncontrolled on other anti-hypertensive drugs,High Cholesterol,Aneroid,Right,130,95,113,101,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,17,-6
+Male,1968,Uncontrolled on other anti-hypertensive drugs,High Cholesterol,Aneroid,Left,162,119,125,81,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,37,38
+Female,1979,Newly Diagnosed Hypertensive Patient,Diabetes,Digital,Right,136,97,139,77,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,-3,20
+Male,1980,Uncontrolled on other anti-hypertensive drugs,High Cholesterol,Aneroid,Right,151,113,153,74,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-2,39
+Male,1950,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Digital,Right,123,104,139,97,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,-16,7
+Male,1962,Uncontrolled on other anti-hypertensive drugs,High Triglycerides,Aneroid,Left,123,85,145,74,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,-22,11
+Female,1940,Newly Diagnosed Hypertensive Patient,High Triglycerides,Aneroid,Right,136,100,112,95,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,24,5
+Female,1985,Newly Diagnosed Hypertensive Patient,None,Aneroid,Right,160,85,131,74,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,29,11
+Male,1960,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Aneroid,Left,138,111,158,91,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-20,20
+Female,1975,Newly Diagnosed Hypertensive Patient,High Cholesterol,Digital,Left,124,118,131,84,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-7,34
+Female,1993,Uncontrolled on other anti-hypertensive drugs,High Triglycerides,Digital,Left,151,110,159,82,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,-8,28
+Female,1996,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Digital,Left,141,89,166,97,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,-25,-8
+Female,1940,Uncontrolled on other anti-hypertensive drugs,High Triglycerides,Aneroid,Right,175,109,159,102,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,16,7
+Male,2002,Uncontrolled on other anti-hypertensive drugs,High Cholesterol,Aneroid,Left,125,97,164,92,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,-39,5
+Male,1993,Uncontrolled on other anti-hypertensive drugs,High Triglycerides,Digital,Right,154,103,169,102,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-15,1
+Female,1994,Uncontrolled on other anti-hypertensive drugs,None,Digital,Left,141,88,158,87,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,-17,1
+Female,1979,Uncontrolled on other anti-hypertensive drugs,None,Aneroid,Left,120,110,121,99,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,-1,11
+Male,1954,Newly Diagnosed Hypertensive Patient,High Triglycerides,Aneroid,Left,139,94,164,95,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,-25,-1
+Male,1960,Newly Diagnosed Hypertensive Patient,Hyperuricemia,Digital,Left,141,83,130,85,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,11,-2
+Female,1986,Newly Diagnosed Hypertensive Patient,Hyperuricemia,Aneroid,Left,167,119,165,82,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,2,37
+Male,1992,Newly Diagnosed Hypertensive Patient,Hyperuricemia,Aneroid,Left,174,88,113,108,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,61,-20
+Female,1948,Newly Diagnosed Hypertensive Patient,High Triglycerides,Digital,Right,130,88,140,102,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,-10,-14
+Female,1991,Newly Diagnosed Hypertensive Patient,Hyperuricemia,Aneroid,Left,132,105,153,95,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,-21,10
+Male,1996,Newly Diagnosed Hypertensive Patient,High Cholesterol,Digital,Left,178,83,140,70,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,38,13
+Male,1965,Uncontrolled on other anti-hypertensive drugs,None,Aneroid,Left,161,96,167,107,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,-6,-11
+Female,1980,Uncontrolled on other anti-hypertensive drugs,High Cholesterol,Digital,Left,122,95,132,71,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,-10,24
+Female,1974,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Aneroid,Right,128,94,163,75,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,-35,19
+Male,2002,Uncontrolled on other anti-hypertensive drugs,High Cholesterol,Digital,Left,179,114,162,107,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,17,7
+Female,1964,Newly Diagnosed Hypertensive Patient,Hyperuricemia,Digital,Left,131,84,129,93,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,2,-9
+Male,1977,Newly Diagnosed Hypertensive Patient,High Triglycerides,Digital,Left,142,84,124,87,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,18,-3
+Female,1941,Uncontrolled on other anti-hypertensive drugs,High Cholesterol,Digital,Left,133,99,132,96,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,1,3
+Male,1946,Uncontrolled on other anti-hypertensive drugs,High Triglycerides,Aneroid,Right,152,94,137,77,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,15,17
+Male,1973,Newly Diagnosed Hypertensive Patient,High Triglycerides,Aneroid,Left,137,97,125,97,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,12,0
+Male,1956,Uncontrolled on other anti-hypertensive drugs,Diabetes,Digital,Right,168,81,146,79,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,22,2
+Female,1982,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Aneroid,Left,178,108,130,86,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,48,22
+Female,1998,Uncontrolled on other anti-hypertensive drugs,None,Aneroid,Right,160,92,124,98,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,36,-6
+Male,1990,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Aneroid,Right,128,83,126,75,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,2,8
+Female,1993,Newly Diagnosed Hypertensive Patient,None,Aneroid,Left,142,89,159,83,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,-17,6
+Male,1963,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Aneroid,Left,129,110,146,91,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-17,19
+Male,1964,Uncontrolled on other anti-hypertensive drugs,High Triglycerides,Digital,Right,138,87,122,75,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,16,12
+Female,1991,Newly Diagnosed Hypertensive Patient,High Cholesterol,Digital,Right,166,82,128,95,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,38,-13
+Female,1972,Newly Diagnosed Hypertensive Patient,High Cholesterol,Digital,Left,124,88,139,108,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,-15,-20
+Male,1988,Uncontrolled on other anti-hypertensive drugs,Diabetes,Digital,Right,166,109,154,81,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,12,28
+Female,1968,Newly Diagnosed Hypertensive Patient,None,Aneroid,Right,171,90,127,104,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,44,-14
+Female,2002,Uncontrolled on other anti-hypertensive drugs,None,Aneroid,Right,142,114,123,83,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,19,31
+Male,1961,Uncontrolled on other anti-hypertensive drugs,None,Digital,Left,149,116,145,91,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,4,25
+Male,1965,Newly Diagnosed Hypertensive Patient,High Triglycerides,Aneroid,Right,144,92,145,92,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,-1,0
+Female,1967,Uncontrolled on other anti-hypertensive drugs,None,Aneroid,Right,147,115,129,76,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,18,39
+Male,1988,Uncontrolled on other anti-hypertensive drugs,High Cholesterol,Digital,Right,153,92,161,109,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,-8,-17
+Male,1988,Uncontrolled on other anti-hypertensive drugs,High Triglycerides,Aneroid,Left,164,91,128,94,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,36,-3
+Female,1959,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Digital,Left,175,116,154,82,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,21,34
+Male,2002,Newly Diagnosed Hypertensive Patient,None,Digital,Right,167,89,153,90,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,14,-1
+Male,2000,Newly Diagnosed Hypertensive Patient,None,Aneroid,Left,166,88,116,79,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,50,9
+Female,1988,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Aneroid,Right,144,86,166,78,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,-22,8
+Female,1940,Newly Diagnosed Hypertensive Patient,None,Digital,Left,129,81,153,84,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,-24,-3
+Male,1952,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Digital,Left,133,102,162,71,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,-29,31
+Male,1990,Uncontrolled on other anti-hypertensive drugs,High Triglycerides,Aneroid,Right,161,118,113,94,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,48,24
+Female,1995,Uncontrolled on other anti-hypertensive drugs,High Cholesterol,Digital,Left,176,119,168,82,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,8,37
+Female,2001,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Digital,Left,165,118,143,103,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,22,15
+Female,1971,Uncontrolled on other anti-hypertensive drugs,Diabetes,Digital,Left,177,100,111,103,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,66,-3
+Female,1969,Newly Diagnosed Hypertensive Patient,Hyperuricemia,Aneroid,Right,149,102,114,104,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,35,-2
+Male,1968,Uncontrolled on other anti-hypertensive drugs,None,Digital,Left,174,108,164,107,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,10,1
+Female,1988,Newly Diagnosed Hypertensive Patient,High Triglycerides,Aneroid,Left,160,93,119,72,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,41,21
+Female,1984,Newly Diagnosed Hypertensive Patient,High Triglycerides,Digital,Right,144,105,141,75,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,3,30
+Male,1969,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Aneroid,Left,133,84,151,88,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,-18,-4
+Female,1955,Uncontrolled on other anti-hypertensive drugs,High Cholesterol,Digital,Left,154,110,150,72,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,4,38
+Male,1979,Uncontrolled on other anti-hypertensive drugs,Diabetes,Aneroid,Left,171,104,122,87,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,49,17
+Female,1958,Uncontrolled on other anti-hypertensive drugs,High Triglycerides,Aneroid,Left,167,110,148,108,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,19,2
+Female,1957,Uncontrolled on other anti-hypertensive drugs,None,Aneroid,Left,153,99,114,78,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,39,21
+Female,1940,Newly Diagnosed Hypertensive Patient,None,Digital,Right,129,96,167,81,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,-38,15
+Male,1986,Uncontrolled on other anti-hypertensive drugs,High Cholesterol,Digital,Right,154,81,119,74,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,35,7
+Male,1977,Uncontrolled on other anti-hypertensive drugs,High Triglycerides,Digital,Left,130,104,119,72,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,11,32
+Female,1990,Newly Diagnosed Hypertensive Patient,Hyperuricemia,Aneroid,Left,130,92,147,80,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-17,12
+Male,2002,Newly Diagnosed Hypertensive Patient,None,Digital,Left,140,118,136,99,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,4,19
+Male,1943,Uncontrolled on other anti-hypertensive drugs,High Cholesterol,Aneroid,Right,140,107,169,73,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-29,34
+Male,1940,Newly Diagnosed Hypertensive Patient,High Triglycerides,Digital,Right,141,85,160,74,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,-19,11
+Male,1947,Uncontrolled on other anti-hypertensive drugs,High Triglycerides,Aneroid,Left,164,82,130,70,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,34,12
+Male,1968,Newly Diagnosed Hypertensive Patient,High Triglycerides,Aneroid,Left,126,114,117,96,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,9,18
+Male,1994,Newly Diagnosed Hypertensive Patient,High Triglycerides,Aneroid,Right,174,97,110,97,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,64,0
+Female,1942,Uncontrolled on other anti-hypertensive drugs,High Triglycerides,Digital,Left,136,90,137,98,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-1,-8
+Female,1971,Newly Diagnosed Hypertensive Patient,None,Digital,Right,121,99,158,87,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-37,12
+Male,1949,Newly Diagnosed Hypertensive Patient,High Cholesterol,Digital,Right,131,84,148,81,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,-17,3
+Female,1973,Newly Diagnosed Hypertensive Patient,High Triglycerides,Aneroid,Left,176,98,123,82,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,53,16
+Female,1994,Newly Diagnosed Hypertensive Patient,Diabetes,Aneroid,Right,161,101,130,71,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,31,30
+Female,1971,Newly Diagnosed Hypertensive Patient,Diabetes,Digital,Left,137,98,139,106,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,-2,-8
+Female,1989,Newly Diagnosed Hypertensive Patient,High Cholesterol,Digital,Left,173,95,130,85,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,43,10
+Male,1946,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Digital,Left,178,103,158,93,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,20,10
+Female,1947,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Aneroid,Left,130,83,118,104,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,12,-21
+Female,2004,Newly Diagnosed Hypertensive Patient,Hyperuricemia,Aneroid,Left,135,94,126,91,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,9,3
+Male,1996,Uncontrolled on other anti-hypertensive drugs,Diabetes,Aneroid,Left,168,104,114,105,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,54,-1
+Male,1998,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Aneroid,Right,170,114,167,80,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,3,34
+Female,1993,Uncontrolled on other anti-hypertensive drugs,None,Aneroid,Right,137,93,166,98,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-29,-5
+Female,1990,Newly Diagnosed Hypertensive Patient,High Triglycerides,Digital,Right,154,98,140,104,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,14,-6
+Female,1947,Uncontrolled on other anti-hypertensive drugs,Diabetes,Aneroid,Right,172,117,161,84,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,11,33
+Female,1973,Newly Diagnosed Hypertensive Patient,High Cholesterol,Aneroid,Left,178,115,149,100,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,29,15
+Female,1974,Uncontrolled on other anti-hypertensive drugs,High Cholesterol,Aneroid,Right,145,86,147,85,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-2,1
+Female,1971,Newly Diagnosed Hypertensive Patient,High Triglycerides,Aneroid,Right,135,109,152,79,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-17,30
+Male,1985,Newly Diagnosed Hypertensive Patient,Diabetes,Aneroid,Right,125,98,128,101,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,-3,-3
+Female,1955,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Digital,Left,176,104,145,71,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,31,33
+Female,1976,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Aneroid,Right,163,95,159,93,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,4,2
+Male,1993,Newly Diagnosed Hypertensive Patient,None,Aneroid,Left,162,119,142,92,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,20,27
+Male,1953,Uncontrolled on other anti-hypertensive drugs,None,Aneroid,Right,166,87,122,71,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,44,16
+Male,1994,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Digital,Left,166,97,123,107,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,43,-10
+Male,1987,Uncontrolled on other anti-hypertensive drugs,High Cholesterol,Digital,Left,167,107,165,100,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,2,7
+Female,1946,Newly Diagnosed Hypertensive Patient,High Cholesterol,Digital,Right,161,95,142,109,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,19,-14
+Female,1946,Newly Diagnosed Hypertensive Patient,None,Aneroid,Left,131,98,138,95,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,-7,3
+Female,1972,Uncontrolled on other anti-hypertensive drugs,High Triglycerides,Digital,Left,179,96,152,98,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,27,-2
+Female,1962,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Aneroid,Right,132,92,158,72,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,-26,20
+Female,1958,Uncontrolled on other anti-hypertensive drugs,None,Aneroid,Right,123,86,145,83,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-22,3
+Female,1958,Newly Diagnosed Hypertensive Patient,None,Digital,Right,158,106,167,94,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-9,12
+Male,1975,Newly Diagnosed Hypertensive Patient,Hyperuricemia,Aneroid,Left,173,89,153,70,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,20,19
+Female,1968,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Aneroid,Left,121,113,119,72,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,2,41
+Male,1999,Uncontrolled on other anti-hypertensive drugs,High Cholesterol,Aneroid,Left,145,115,140,95,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,5,20
+Male,1941,Uncontrolled on other anti-hypertensive drugs,High Triglycerides,Digital,Right,178,104,115,87,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,63,17
+Female,1940,Uncontrolled on other anti-hypertensive drugs,High Triglycerides,Aneroid,Left,146,85,166,78,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,-20,7
+Male,1986,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Aneroid,Left,146,103,110,107,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,36,-4
+Female,1959,Uncontrolled on other anti-hypertensive drugs,Diabetes,Digital,Left,134,97,116,92,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,18,5
+Male,1950,Newly Diagnosed Hypertensive Patient,None,Aneroid,Left,127,102,167,90,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,-40,12
+Female,1941,Uncontrolled on other anti-hypertensive drugs,None,Aneroid,Left,126,85,136,70,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,-10,15
+Male,1951,Newly Diagnosed Hypertensive Patient,Hyperuricemia,Digital,Left,166,108,130,90,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,36,18
+Female,1959,Uncontrolled on other anti-hypertensive drugs,Diabetes,Aneroid,Left,174,104,137,96,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,37,8
+Female,1944,Uncontrolled on other anti-hypertensive drugs,High Cholesterol,Aneroid,Right,165,96,125,75,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,40,21
+Female,1976,Newly Diagnosed Hypertensive Patient,Hyperuricemia,Aneroid,Right,159,103,165,105,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,-6,-2
+Female,1977,Newly Diagnosed Hypertensive Patient,Hyperuricemia,Aneroid,Right,179,90,155,97,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,24,-7
+Female,1948,Newly Diagnosed Hypertensive Patient,None,Aneroid,Left,131,105,132,86,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,-1,19
+Male,1992,Newly Diagnosed Hypertensive Patient,Hyperuricemia,Digital,Left,132,113,161,109,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,-29,4
+Male,1983,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Digital,Right,162,107,129,72,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,33,35
+Male,1963,Newly Diagnosed Hypertensive Patient,Hyperuricemia,Digital,Left,136,82,147,81,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,-11,1
+Female,1969,Uncontrolled on other anti-hypertensive drugs,None,Digital,Right,136,90,163,108,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-27,-18
+Male,1998,Newly Diagnosed Hypertensive Patient,High Cholesterol,Aneroid,Left,175,117,134,81,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,41,36
+Female,1953,Uncontrolled on other anti-hypertensive drugs,High Cholesterol,Aneroid,Left,155,93,137,71,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,18,22
+Female,1948,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Aneroid,Right,140,105,114,91,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,26,14
+Male,1979,Uncontrolled on other anti-hypertensive drugs,None,Aneroid,Right,127,100,165,92,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,-38,8
+Male,1964,Uncontrolled on other anti-hypertensive drugs,High Cholesterol,Aneroid,Right,124,118,130,99,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-6,19
+Female,1961,Uncontrolled on other anti-hypertensive drugs,High Cholesterol,Digital,Right,145,109,127,74,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,18,35
+Male,1943,Uncontrolled on other anti-hypertensive drugs,High Cholesterol,Digital,Right,135,87,156,78,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,-21,9
+Female,1965,Newly Diagnosed Hypertensive Patient,None,Aneroid,Left,155,99,115,90,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,40,9
+Female,1997,Uncontrolled on other anti-hypertensive drugs,None,Aneroid,Left,147,111,166,80,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,-19,31
+Female,1968,Newly Diagnosed Hypertensive Patient,Hyperuricemia,Aneroid,Left,173,101,138,74,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,35,27
+Female,1976,Newly Diagnosed Hypertensive Patient,High Triglycerides,Digital,Right,148,86,128,104,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,20,-18
+Female,1957,Uncontrolled on other anti-hypertensive drugs,High Cholesterol,Aneroid,Right,166,88,142,96,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,24,-8
+Male,1981,Newly Diagnosed Hypertensive Patient,High Triglycerides,Aneroid,Right,131,80,110,71,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,21,9
+Male,1980,Uncontrolled on other anti-hypertensive drugs,None,Aneroid,Right,156,108,154,93,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,2,15
+Female,1977,Newly Diagnosed Hypertensive Patient,None,Digital,Right,149,87,112,100,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,37,-13
+Female,1973,Uncontrolled on other anti-hypertensive drugs,None,Aneroid,Right,142,83,151,102,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-9,-19
+Male,1956,Newly Diagnosed Hypertensive Patient,High Triglycerides,Digital,Left,135,114,130,108,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,5,6
+Male,1976,Uncontrolled on other anti-hypertensive drugs,None,Digital,Left,133,82,144,99,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,-11,-17
+Female,1964,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Digital,Left,129,119,150,106,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-21,13
+Male,1966,Uncontrolled on other anti-hypertensive drugs,None,Digital,Left,126,86,149,97,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-23,-11
+Female,1996,Uncontrolled on other anti-hypertensive drugs,Diabetes,Digital,Left,164,106,112,100,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,52,6
+Male,1970,Newly Diagnosed Hypertensive Patient,High Triglycerides,Digital,Right,171,80,134,80,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,37,0
+Female,1945,Uncontrolled on other anti-hypertensive drugs,Diabetes,Aneroid,Right,179,106,154,92,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,25,14
+Male,1979,Newly Diagnosed Hypertensive Patient,None,Aneroid,Right,156,95,147,71,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,9,24
+Female,1951,Newly Diagnosed Hypertensive Patient,Hyperuricemia,Aneroid,Right,148,117,154,109,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,-6,8
+Male,1992,Newly Diagnosed Hypertensive Patient,High Cholesterol,Digital,Right,122,86,164,96,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,-42,-10
+Male,1949,Uncontrolled on other anti-hypertensive drugs,None,Aneroid,Right,134,102,129,104,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,5,-2
+Female,1984,Newly Diagnosed Hypertensive Patient,Hyperuricemia,Digital,Left,155,90,161,71,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,-6,19
+Male,1956,Newly Diagnosed Hypertensive Patient,High Triglycerides,Digital,Right,166,112,153,108,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,13,4
+Female,1965,Newly Diagnosed Hypertensive Patient,Diabetes,Digital,Right,165,115,154,106,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,11,9
+Male,2001,Uncontrolled on other anti-hypertensive drugs,Diabetes,Aneroid,Right,171,116,143,90,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,28,26
+Female,1985,Uncontrolled on other anti-hypertensive drugs,Diabetes,Digital,Right,138,96,130,74,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,8,22
+Male,2003,Newly Diagnosed Hypertensive Patient,High Triglycerides,Digital,Left,132,114,165,90,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-33,24
+Female,1941,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Aneroid,Left,161,84,164,98,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-3,-14
+Male,1993,Uncontrolled on other anti-hypertensive drugs,High Triglycerides,Aneroid,Right,140,111,157,89,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,-17,22
+Female,2004,Newly Diagnosed Hypertensive Patient,Diabetes,Digital,Left,156,82,132,107,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,24,-25
+Male,1990,Newly Diagnosed Hypertensive Patient,None,Digital,Left,146,114,115,89,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,31,25
+Female,1992,Uncontrolled on other anti-hypertensive drugs,High Cholesterol,Aneroid,Right,174,93,160,94,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,14,-1
+Female,1975,Newly Diagnosed Hypertensive Patient,High Triglycerides,Aneroid,Right,171,110,162,71,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,9,39
+Female,1965,Uncontrolled on other anti-hypertensive drugs,High Triglycerides,Aneroid,Right,148,110,122,101,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,26,9
+Male,1968,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Digital,Right,139,96,158,95,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-19,1
+Female,1960,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Aneroid,Right,144,103,132,75,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,12,28
+Male,1950,Uncontrolled on other anti-hypertensive drugs,High Triglycerides,Aneroid,Left,125,102,118,72,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,7,30
+Female,1979,Uncontrolled on other anti-hypertensive drugs,Diabetes,Aneroid,Right,155,97,126,102,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,29,-5
+Male,1950,Uncontrolled on other anti-hypertensive drugs,High Cholesterol,Digital,Right,121,93,111,70,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,10,23
+Female,1975,Newly Diagnosed Hypertensive Patient,Hyperuricemia,Aneroid,Right,141,94,128,74,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,13,20
+Male,1998,Newly Diagnosed Hypertensive Patient,Diabetes,Aneroid,Left,151,94,128,82,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,23,12
+Male,1978,Uncontrolled on other anti-hypertensive drugs,None,Aneroid,Right,135,85,165,88,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-30,-3
+Female,1993,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Aneroid,Right,137,106,116,81,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,21,25
+Male,1994,Uncontrolled on other anti-hypertensive drugs,Diabetes,Aneroid,Right,124,94,163,94,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,-39,0
+Male,1963,Newly Diagnosed Hypertensive Patient,Diabetes,Digital,Left,173,115,151,104,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,22,11
+Female,1961,Uncontrolled on other anti-hypertensive drugs,High Cholesterol,Digital,Right,155,87,151,81,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,4,6
+Male,1995,Newly Diagnosed Hypertensive Patient,High Cholesterol,Digital,Right,149,94,168,99,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,-19,-5
+Male,1972,Uncontrolled on other anti-hypertensive drugs,None,Aneroid,Right,164,82,129,74,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,35,8
+Male,1975,Uncontrolled on other anti-hypertensive drugs,Diabetes,Digital,Left,138,92,118,103,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,20,-11
+Female,1959,Newly Diagnosed Hypertensive Patient,Diabetes,Digital,Right,142,113,126,91,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,16,22
+Male,2001,Newly Diagnosed Hypertensive Patient,High Cholesterol,Digital,Right,153,103,136,108,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,17,-5
+Female,1965,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Aneroid,Right,132,119,156,82,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-24,37
+Male,1979,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Aneroid,Left,162,111,111,72,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,51,39
+Male,1956,Uncontrolled on other anti-hypertensive drugs,High Triglycerides,Digital,Right,173,111,145,89,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,28,22
+Male,1940,Newly Diagnosed Hypertensive Patient,High Cholesterol,Digital,Right,148,109,128,100,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,20,9
+Female,2000,Newly Diagnosed Hypertensive Patient,High Triglycerides,Aneroid,Right,155,92,126,74,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,29,18
+Male,1982,Newly Diagnosed Hypertensive Patient,High Cholesterol,Aneroid,Left,141,80,114,93,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,27,-13
+Male,1981,Newly Diagnosed Hypertensive Patient,None,Digital,Left,171,113,148,109,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,23,4
+Female,1964,Newly Diagnosed Hypertensive Patient,Diabetes,Aneroid,Right,171,94,127,102,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,44,-8
+Male,1978,Newly Diagnosed Hypertensive Patient,None,Digital,Left,166,93,162,77,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,4,16
+Female,1974,Uncontrolled on other anti-hypertensive drugs,High Cholesterol,Aneroid,Left,155,108,163,93,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-8,15
+Female,1942,Uncontrolled on other anti-hypertensive drugs,Diabetes,Digital,Left,128,113,168,89,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,-40,24
+Male,1983,Newly Diagnosed Hypertensive Patient,Hyperuricemia,Digital,Right,158,97,116,85,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,42,12
+Female,1990,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Aneroid,Right,170,86,126,81,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,44,5
+Male,1951,Uncontrolled on other anti-hypertensive drugs,High Triglycerides,Digital,Left,138,108,148,82,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-10,26
+Female,1958,Newly Diagnosed Hypertensive Patient,High Cholesterol,Digital,Left,157,110,145,108,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,12,2
+Female,1983,Uncontrolled on other anti-hypertensive drugs,High Cholesterol,Digital,Left,125,104,149,94,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-24,10
+Male,1998,Newly Diagnosed Hypertensive Patient,Hyperuricemia,Aneroid,Right,171,117,154,101,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,17,16
+Female,1988,Newly Diagnosed Hypertensive Patient,None,Aneroid,Right,166,93,113,93,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,53,0
+Female,2000,Uncontrolled on other anti-hypertensive drugs,Diabetes,Aneroid,Left,134,87,147,78,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-13,9
+Female,1956,Newly Diagnosed Hypertensive Patient,None,Digital,Left,176,106,134,109,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,42,-3
+Female,1996,Newly Diagnosed Hypertensive Patient,None,Aneroid,Left,139,81,114,92,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,25,-11
+Female,1994,Newly Diagnosed Hypertensive Patient,Hyperuricemia,Digital,Left,128,96,139,82,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,-11,14
+Male,1986,Newly Diagnosed Hypertensive Patient,Hyperuricemia,Digital,Right,151,116,121,101,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,30,15
+Female,1951,Newly Diagnosed Hypertensive Patient,Hyperuricemia,Aneroid,Left,123,93,113,84,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,10,9
+Male,2001,Newly Diagnosed Hypertensive Patient,High Triglycerides,Aneroid,Right,169,104,133,105,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,36,-1
+Female,1947,Newly Diagnosed Hypertensive Patient,None,Digital,Left,137,109,138,74,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,-1,35
+Male,1960,Newly Diagnosed Hypertensive Patient,High Cholesterol,Digital,Left,124,108,118,91,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,6,17
+Male,1964,Uncontrolled on other anti-hypertensive drugs,Diabetes,Aneroid,Left,139,99,113,85,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,26,14
+Female,1951,Uncontrolled on other anti-hypertensive drugs,High Triglycerides,Aneroid,Left,142,100,160,79,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,-18,21
+Female,1954,Uncontrolled on other anti-hypertensive drugs,High Cholesterol,Aneroid,Left,130,101,133,93,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,-3,8
+Female,1998,Newly Diagnosed Hypertensive Patient,None,Digital,Right,156,114,123,87,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,33,27
+Male,1965,Newly Diagnosed Hypertensive Patient,Hyperuricemia,Digital,Left,141,116,114,87,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,27,29
+Female,1965,Uncontrolled on other anti-hypertensive drugs,None,Digital,Left,177,95,127,76,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,50,19
+Male,1986,Uncontrolled on other anti-hypertensive drugs,Diabetes,Digital,Left,123,96,151,73,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-28,23
+Male,1971,Uncontrolled on other anti-hypertensive drugs,High Triglycerides,Digital,Right,148,95,166,95,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,-18,0
+Male,1949,Newly Diagnosed Hypertensive Patient,High Triglycerides,Aneroid,Right,163,81,128,74,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,35,7
+Female,1955,Uncontrolled on other anti-hypertensive drugs,Diabetes,Aneroid,Right,153,83,121,85,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,32,-2
+Female,1956,Uncontrolled on other anti-hypertensive drugs,High Cholesterol,Digital,Right,132,100,127,104,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,5,-4
+Male,1962,Newly Diagnosed Hypertensive Patient,High Cholesterol,Digital,Left,161,118,126,95,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,35,23
+Male,1965,Uncontrolled on other anti-hypertensive drugs,High Triglycerides,Aneroid,Left,128,113,139,87,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-11,26
+Female,1946,Newly Diagnosed Hypertensive Patient,High Triglycerides,Aneroid,Left,161,109,133,98,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,28,11
+Male,1953,Newly Diagnosed Hypertensive Patient,Hyperuricemia,Aneroid,Right,150,85,120,92,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,30,-7
+Female,1946,Newly Diagnosed Hypertensive Patient,High Cholesterol,Aneroid,Left,126,96,144,83,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,-18,13
+Male,1948,Uncontrolled on other anti-hypertensive drugs,Diabetes,Digital,Left,123,118,132,84,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,-9,34
+Female,1987,Uncontrolled on other anti-hypertensive drugs,High Cholesterol,Aneroid,Right,138,104,126,102,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,12,2
+Male,1998,Newly Diagnosed Hypertensive Patient,Hyperuricemia,Digital,Right,161,84,110,94,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,51,-10
+Female,1978,Uncontrolled on other anti-hypertensive drugs,High Triglycerides,Aneroid,Right,149,84,124,90,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,25,-6
+Male,1957,Uncontrolled on other anti-hypertensive drugs,High Triglycerides,Aneroid,Left,150,99,141,86,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,9,13
+Female,1998,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Aneroid,Left,154,95,169,92,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,-15,3
+Female,1956,Uncontrolled on other anti-hypertensive drugs,Diabetes,Digital,Right,176,116,118,86,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,58,30
+Male,1953,Newly Diagnosed Hypertensive Patient,High Triglycerides,Digital,Left,140,119,124,83,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,16,36
+Male,1970,Uncontrolled on other anti-hypertensive drugs,None,Aneroid,Right,150,88,137,98,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,13,-10
+Female,1963,Newly Diagnosed Hypertensive Patient,High Triglycerides,Digital,Right,138,84,133,89,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,5,-5
+Male,1999,Newly Diagnosed Hypertensive Patient,None,Digital,Left,150,81,169,99,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,-19,-18
+Female,1984,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Aneroid,Right,172,88,144,88,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,28,0
+Male,1942,Newly Diagnosed Hypertensive Patient,Hyperuricemia,Aneroid,Right,151,115,131,108,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,20,7
+Female,1976,Uncontrolled on other anti-hypertensive drugs,High Triglycerides,Digital,Right,121,101,136,82,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,-15,19
+Female,1982,Uncontrolled on other anti-hypertensive drugs,High Cholesterol,Digital,Left,178,101,128,87,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,50,14
+Female,1979,Newly Diagnosed Hypertensive Patient,None,Digital,Right,171,101,154,92,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,17,9
+Female,1994,Newly Diagnosed Hypertensive Patient,Diabetes,Aneroid,Right,129,113,121,102,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,8,11
+Female,1978,Newly Diagnosed Hypertensive Patient,High Triglycerides,Aneroid,Right,121,108,129,108,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,-8,0
+Female,1954,Newly Diagnosed Hypertensive Patient,Diabetes,Digital,Right,121,117,110,109,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,11,8
+Male,1943,Uncontrolled on other anti-hypertensive drugs,High Triglycerides,Aneroid,Right,179,112,130,87,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,49,25
+Male,1964,Uncontrolled on other anti-hypertensive drugs,High Cholesterol,Aneroid,Right,143,97,158,78,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,-15,19
+Male,1952,Uncontrolled on other anti-hypertensive drugs,High Cholesterol,Digital,Right,136,86,154,102,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,-18,-16
+Female,1972,Newly Diagnosed Hypertensive Patient,High Cholesterol,Digital,Left,151,80,110,101,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,41,-21
+Female,1955,Newly Diagnosed Hypertensive Patient,High Cholesterol,Aneroid,Left,135,112,119,86,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,16,26
+Female,1981,Newly Diagnosed Hypertensive Patient,Hyperuricemia,Aneroid,Right,135,80,156,88,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,-21,-8
+Female,1994,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Digital,Left,165,103,168,96,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,-3,7
+Male,1981,Newly Diagnosed Hypertensive Patient,None,Aneroid,Left,158,83,168,75,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-10,8
+Male,1973,Uncontrolled on other anti-hypertensive drugs,Diabetes,Aneroid,Right,172,83,141,104,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,31,-21
+Female,1969,Newly Diagnosed Hypertensive Patient,High Triglycerides,Digital,Left,150,97,148,106,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,2,-9
+Male,1952,Uncontrolled on other anti-hypertensive drugs,High Triglycerides,Digital,Right,162,106,169,103,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-7,3
+Male,1952,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Aneroid,Right,143,111,131,89,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,12,22
+Female,1957,Newly Diagnosed Hypertensive Patient,High Triglycerides,Aneroid,Right,120,112,127,94,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-7,18
+Male,1971,Newly Diagnosed Hypertensive Patient,Hyperuricemia,Aneroid,Right,130,107,157,73,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,-27,34
+Female,1978,Uncontrolled on other anti-hypertensive drugs,None,Digital,Right,174,115,155,79,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,19,36
+Male,1985,Uncontrolled on other anti-hypertensive drugs,Diabetes,Aneroid,Left,140,85,141,79,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-1,6
+Female,1968,Newly Diagnosed Hypertensive Patient,None,Aneroid,Right,123,95,136,93,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,-13,2
+Female,2001,Newly Diagnosed Hypertensive Patient,High Cholesterol,Digital,Left,126,113,137,90,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,-11,23
+Female,2001,Uncontrolled on other anti-hypertensive drugs,High Cholesterol,Digital,Right,145,102,127,80,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,18,22
+Female,1996,Newly Diagnosed Hypertensive Patient,High Cholesterol,Aneroid,Right,166,103,168,96,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,-2,7
+Male,1955,Uncontrolled on other anti-hypertensive drugs,None,Digital,Right,169,92,148,85,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,21,7
+Female,1995,Uncontrolled on other anti-hypertensive drugs,High Triglycerides,Digital,Left,131,97,158,95,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-27,2
+Female,1949,Newly Diagnosed Hypertensive Patient,Diabetes,Aneroid,Right,150,92,138,99,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,12,-7
+Female,1969,Newly Diagnosed Hypertensive Patient,High Cholesterol,Digital,Right,136,116,127,85,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,9,31
+Male,1964,Newly Diagnosed Hypertensive Patient,High Cholesterol,Digital,Right,152,118,153,76,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-1,42
+Female,1944,Newly Diagnosed Hypertensive Patient,High Cholesterol,Aneroid,Right,130,96,117,85,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,13,11
+Male,2004,Newly Diagnosed Hypertensive Patient,Diabetes,Digital,Left,147,94,163,104,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-16,-10
+Female,1988,Uncontrolled on other anti-hypertensive drugs,High Cholesterol,Aneroid,Right,151,97,140,85,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,11,12
+Male,1942,Uncontrolled on other anti-hypertensive drugs,Diabetes,Aneroid,Left,120,102,143,109,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,-23,-7
+Male,1984,Newly Diagnosed Hypertensive Patient,High Cholesterol,Digital,Right,166,109,116,81,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,50,28
+Female,1953,Newly Diagnosed Hypertensive Patient,None,Digital,Left,147,113,145,104,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,2,9
+Male,1969,Newly Diagnosed Hypertensive Patient,None,Digital,Left,172,83,127,90,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,45,-7
+Female,1957,Uncontrolled on other anti-hypertensive drugs,Diabetes,Aneroid,Right,161,82,169,105,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-8,-23
+Female,2001,Newly Diagnosed Hypertensive Patient,None,Digital,Right,126,86,147,86,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,-21,0
+Female,1976,Newly Diagnosed Hypertensive Patient,Diabetes,Aneroid,Left,121,97,168,101,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-47,-4
+Male,1964,Uncontrolled on other anti-hypertensive drugs,None,Digital,Right,161,86,118,75,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,43,11
+Male,1987,Uncontrolled on other anti-hypertensive drugs,None,Digital,Right,143,119,168,93,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,-25,26
+Female,2004,Newly Diagnosed Hypertensive Patient,Diabetes,Digital,Right,123,85,118,96,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,5,-11
+Female,1992,Newly Diagnosed Hypertensive Patient,High Triglycerides,Aneroid,Left,163,101,155,89,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,8,12
+Male,1954,Newly Diagnosed Hypertensive Patient,None,Digital,Right,138,80,117,94,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,21,-14
+Female,1988,Uncontrolled on other anti-hypertensive drugs,High Cholesterol,Digital,Right,145,83,160,71,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,-15,12
+Female,1951,Newly Diagnosed Hypertensive Patient,High Triglycerides,Aneroid,Right,130,108,144,78,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,-14,30
+Female,1998,Newly Diagnosed Hypertensive Patient,Diabetes,Aneroid,Left,159,100,127,97,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,32,3
+Male,1976,Newly Diagnosed Hypertensive Patient,High Triglycerides,Digital,Right,169,105,114,107,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,55,-2
+Male,2000,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Digital,Left,162,93,123,72,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,39,21
+Male,1982,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Digital,Right,130,88,137,89,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-7,-1
+Female,1978,Newly Diagnosed Hypertensive Patient,None,Aneroid,Left,164,91,139,75,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,25,16
+Female,1995,Newly Diagnosed Hypertensive Patient,None,Aneroid,Right,122,85,113,108,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,9,-23
+Female,2002,Uncontrolled on other anti-hypertensive drugs,High Cholesterol,Aneroid,Right,131,99,148,102,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,-17,-3
+Male,1985,Uncontrolled on other anti-hypertensive drugs,High Triglycerides,Aneroid,Left,122,103,129,70,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-7,33
+Female,1950,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Digital,Left,161,106,134,106,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,27,0
+Female,2001,Uncontrolled on other anti-hypertensive drugs,None,Aneroid,Left,146,117,137,75,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,9,42
+Female,1964,Uncontrolled on other anti-hypertensive drugs,High Triglycerides,Aneroid,Right,168,87,121,103,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,47,-16
+Female,1991,Uncontrolled on other anti-hypertensive drugs,None,Aneroid,Right,173,80,111,84,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,62,-4
+Male,1943,Uncontrolled on other anti-hypertensive drugs,None,Digital,Right,121,103,152,95,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,-31,8
+Male,1998,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Digital,Right,168,86,123,83,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,45,3
+Female,1959,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Aneroid,Left,135,98,131,76,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,4,22
+Male,2002,Newly Diagnosed Hypertensive Patient,None,Aneroid,Right,121,101,140,100,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-19,1
+Male,1993,Newly Diagnosed Hypertensive Patient,Diabetes,Digital,Right,179,114,132,93,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,47,21
+Female,1996,Newly Diagnosed Hypertensive Patient,None,Digital,Right,173,109,157,100,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,16,9
+Female,1980,Uncontrolled on other anti-hypertensive drugs,None,Digital,Right,149,108,129,98,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,20,10
+Male,1942,Newly Diagnosed Hypertensive Patient,High Cholesterol,Digital,Right,139,101,147,101,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-8,0
+Female,1945,Uncontrolled on other anti-hypertensive drugs,High Cholesterol,Digital,Right,157,90,164,86,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-7,4
+Male,1944,Uncontrolled on other anti-hypertensive drugs,High Cholesterol,Digital,Right,147,99,113,83,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,34,16
+Female,1944,Newly Diagnosed Hypertensive Patient,Diabetes,Digital,Left,144,108,124,109,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,20,-1
+Male,1993,Uncontrolled on other anti-hypertensive drugs,Diabetes,Digital,Right,151,113,133,105,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,18,8
+Female,1986,Newly Diagnosed Hypertensive Patient,None,Aneroid,Right,129,80,134,93,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,-5,-13
+Male,1988,Newly Diagnosed Hypertensive Patient,High Cholesterol,Aneroid,Right,179,110,110,96,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,69,14
+Male,1948,Newly Diagnosed Hypertensive Patient,Diabetes,Aneroid,Right,161,109,116,94,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,45,15
+Male,1959,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Aneroid,Left,159,97,166,101,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,-7,-4
+Female,2000,Newly Diagnosed Hypertensive Patient,None,Aneroid,Left,152,96,140,87,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,12,9
+Male,1974,Uncontrolled on other anti-hypertensive drugs,High Triglycerides,Aneroid,Left,132,117,121,87,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,11,30
+Male,1989,Newly Diagnosed Hypertensive Patient,None,Digital,Left,175,93,151,106,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,24,-13
+Female,2001,Newly Diagnosed Hypertensive Patient,High Triglycerides,Digital,Left,160,102,114,95,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,46,7
+Female,1956,Newly Diagnosed Hypertensive Patient,High Cholesterol,Aneroid,Left,173,104,153,78,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,20,26
+Male,1942,Uncontrolled on other anti-hypertensive drugs,High Triglycerides,Aneroid,Right,161,94,159,104,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,2,-10
+Male,1971,Uncontrolled on other anti-hypertensive drugs,High Cholesterol,Digital,Left,166,101,151,77,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,15,24
+Female,1952,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Digital,Left,156,82,147,89,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,9,-7
+Female,1953,Newly Diagnosed Hypertensive Patient,High Triglycerides,Digital,Right,173,98,169,91,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,4,7
+Female,1950,Newly Diagnosed Hypertensive Patient,None,Aneroid,Left,135,113,121,88,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,14,25
+Female,1995,Uncontrolled on other anti-hypertensive drugs,High Cholesterol,Digital,Right,164,114,148,99,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,16,15
+Female,1968,Uncontrolled on other anti-hypertensive drugs,None,Aneroid,Right,141,80,127,97,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,14,-17
+Male,1948,Uncontrolled on other anti-hypertensive drugs,Diabetes,Aneroid,Left,176,100,111,104,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,65,-4
+Female,1964,Uncontrolled on other anti-hypertensive drugs,High Cholesterol,Digital,Right,139,108,119,80,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,20,28
+Male,1981,Uncontrolled on other anti-hypertensive drugs,High Triglycerides,Digital,Left,169,85,124,100,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,45,-15
+Male,1948,Uncontrolled on other anti-hypertensive drugs,High Cholesterol,Aneroid,Left,162,116,139,108,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,23,8
+Male,1979,Newly Diagnosed Hypertensive Patient,None,Digital,Right,146,80,153,105,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,-7,-25
+Female,1964,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Digital,Right,160,80,167,99,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-7,-19
+Male,1944,Newly Diagnosed Hypertensive Patient,High Cholesterol,Aneroid,Left,135,106,126,92,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,9,14
+Male,1950,Newly Diagnosed Hypertensive Patient,High Triglycerides,Digital,Right,153,100,113,88,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,40,12
+Female,1998,Uncontrolled on other anti-hypertensive drugs,Diabetes,Aneroid,Right,151,95,116,81,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,35,14
+Male,1977,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Aneroid,Left,145,119,150,84,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,-5,35
+Male,1944,Newly Diagnosed Hypertensive Patient,Diabetes,Digital,Left,144,105,140,100,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,4,5
+Female,1987,Uncontrolled on other anti-hypertensive drugs,High Cholesterol,Aneroid,Right,121,95,160,106,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,-39,-11
+Male,1957,Uncontrolled on other anti-hypertensive drugs,None,Aneroid,Left,131,107,169,106,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,-38,1
+Male,1976,Newly Diagnosed Hypertensive Patient,None,Digital,Left,159,80,168,84,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,-9,-4
+Male,1999,Newly Diagnosed Hypertensive Patient,High Triglycerides,Digital,Left,128,115,164,98,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,-36,17
+Female,1987,Newly Diagnosed Hypertensive Patient,None,Digital,Left,131,89,148,95,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-17,-6
+Female,1967,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Aneroid,Left,145,96,164,71,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,-19,25
+Female,1979,Newly Diagnosed Hypertensive Patient,None,Aneroid,Left,128,102,143,89,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-15,13
+Male,1984,Uncontrolled on other anti-hypertensive drugs,High Triglycerides,Digital,Left,129,86,115,84,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,14,2
+Male,2001,Newly Diagnosed Hypertensive Patient,High Cholesterol,Aneroid,Right,151,86,159,73,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-8,13
+Female,1997,Newly Diagnosed Hypertensive Patient,High Cholesterol,Digital,Left,176,94,147,91,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,29,3
+Male,1995,Newly Diagnosed Hypertensive Patient,None,Digital,Right,153,113,154,107,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,-1,6
+Male,1979,Uncontrolled on other anti-hypertensive drugs,Diabetes,Aneroid,Right,167,83,167,92,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,0,-9
+Female,1979,Uncontrolled on other anti-hypertensive drugs,High Cholesterol,Digital,Right,139,93,160,95,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,-21,-2
+Female,1972,Newly Diagnosed Hypertensive Patient,None,Aneroid,Left,158,93,143,80,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,15,13
+Male,1945,Newly Diagnosed Hypertensive Patient,High Triglycerides,Aneroid,Left,179,95,153,97,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,26,-2
+Male,1958,Newly Diagnosed Hypertensive Patient,None,Digital,Right,121,86,124,71,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,-3,15
+Male,1979,Uncontrolled on other anti-hypertensive drugs,High Cholesterol,Aneroid,Left,120,111,123,77,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,-3,34
+Female,1998,Newly Diagnosed Hypertensive Patient,High Triglycerides,Digital,Right,170,98,115,98,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,55,0
+Female,1998,Uncontrolled on other anti-hypertensive drugs,None,Aneroid,Left,179,81,159,80,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,20,1
+Female,1987,Newly Diagnosed Hypertensive Patient,Hyperuricemia,Aneroid,Left,155,89,146,106,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,9,-17
+Female,1980,Newly Diagnosed Hypertensive Patient,High Triglycerides,Aneroid,Right,143,96,159,87,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-16,9
+Male,1952,Newly Diagnosed Hypertensive Patient,Hyperuricemia,Digital,Right,173,116,141,83,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,32,33
+Female,1984,Newly Diagnosed Hypertensive Patient,Diabetes,Aneroid,Right,146,91,112,79,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,34,12
+Female,1992,Newly Diagnosed Hypertensive Patient,High Triglycerides,Digital,Left,121,85,112,104,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,9,-19
+Female,1981,Newly Diagnosed Hypertensive Patient,Hyperuricemia,Aneroid,Right,150,101,131,78,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,19,23
+Female,2002,Uncontrolled on other anti-hypertensive drugs,High Cholesterol,Aneroid,Left,176,111,131,104,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,45,7
+Female,1966,Newly Diagnosed Hypertensive Patient,High Cholesterol,Digital,Left,133,99,119,80,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,14,19
+Male,1977,Uncontrolled on other anti-hypertensive drugs,Diabetes,Digital,Left,121,80,160,81,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-39,-1
+Male,1999,Newly Diagnosed Hypertensive Patient,High Triglycerides,Digital,Right,148,85,112,72,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,36,13
+Female,1946,Newly Diagnosed Hypertensive Patient,High Triglycerides,Digital,Right,134,98,121,108,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,13,-10
+Male,1944,Uncontrolled on other anti-hypertensive drugs,High Triglycerides,Digital,Right,131,97,138,83,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,-7,14
+Female,1984,Newly Diagnosed Hypertensive Patient,Diabetes,Aneroid,Left,156,85,157,97,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-1,-12
+Female,1997,Uncontrolled on other anti-hypertensive drugs,High Triglycerides,Aneroid,Left,147,112,126,80,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,21,32
+Male,1970,Uncontrolled on other anti-hypertensive drugs,High Cholesterol,Digital,Right,139,102,116,108,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,23,-6
+Male,1962,Newly Diagnosed Hypertensive Patient,Hyperuricemia,Aneroid,Left,158,102,122,94,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,36,8
+Female,1981,Uncontrolled on other anti-hypertensive drugs,High Cholesterol,Aneroid,Left,143,105,165,90,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,-22,15
+Female,1949,Uncontrolled on other anti-hypertensive drugs,High Cholesterol,Aneroid,Right,140,92,111,79,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,29,13
+Female,1971,Newly Diagnosed Hypertensive Patient,Hyperuricemia,Digital,Right,129,86,113,84,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,16,2
+Male,1992,Uncontrolled on other anti-hypertensive drugs,High Cholesterol,Aneroid,Right,165,94,119,88,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,46,6
+Female,1969,Newly Diagnosed Hypertensive Patient,Diabetes,Aneroid,Left,133,106,148,91,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,-15,15
+Female,1978,Newly Diagnosed Hypertensive Patient,Hyperuricemia,Aneroid,Left,156,105,133,90,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,23,15
+Female,1970,Newly Diagnosed Hypertensive Patient,High Cholesterol,Digital,Left,137,112,126,101,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,11,11
+Male,1941,Newly Diagnosed Hypertensive Patient,None,Aneroid,Left,143,94,161,92,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-18,2
+Female,1951,Uncontrolled on other anti-hypertensive drugs,High Cholesterol,Aneroid,Left,133,115,115,82,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,18,33
+Female,1978,Newly Diagnosed Hypertensive Patient,Diabetes,Digital,Right,153,106,128,74,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,25,32
+Male,1952,Newly Diagnosed Hypertensive Patient,High Triglycerides,Digital,Left,177,84,114,73,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,63,11
+Female,1985,Uncontrolled on other anti-hypertensive drugs,High Cholesterol,Aneroid,Left,131,81,141,97,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,-10,-16
+Female,1966,Newly Diagnosed Hypertensive Patient,High Triglycerides,Aneroid,Left,141,112,119,83,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,22,29
+Male,1956,Newly Diagnosed Hypertensive Patient,None,Digital,Right,175,95,118,77,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,57,18
+Female,1999,Uncontrolled on other anti-hypertensive drugs,High Cholesterol,Digital,Right,125,102,136,78,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,-11,24
+Male,2003,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Digital,Right,155,117,122,104,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,33,13
+Male,1974,Uncontrolled on other anti-hypertensive drugs,High Triglycerides,Digital,Left,164,95,128,106,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,36,-11
+Female,1969,Uncontrolled on other anti-hypertensive drugs,None,Digital,Right,155,93,130,90,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,25,3
+Female,2002,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Digital,Right,141,108,133,87,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,8,21
+Female,1967,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Digital,Right,133,105,147,102,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-14,3
+Female,1999,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Aneroid,Left,135,114,113,77,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,22,37
+Male,1976,Newly Diagnosed Hypertensive Patient,Hyperuricemia,Digital,Right,155,94,133,86,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,22,8
+Female,1961,Uncontrolled on other anti-hypertensive drugs,High Cholesterol,Digital,Left,175,82,168,100,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,7,-18
+Male,1959,Uncontrolled on other anti-hypertensive drugs,High Cholesterol,Aneroid,Left,144,102,144,103,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,0,-1
+Female,2003,Uncontrolled on other anti-hypertensive drugs,High Cholesterol,Digital,Right,151,108,112,75,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,39,33
+Female,1956,Newly Diagnosed Hypertensive Patient,None,Digital,Left,152,113,113,91,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,39,22
+Female,1951,Newly Diagnosed Hypertensive Patient,None,Aneroid,Right,164,112,166,83,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,-2,29
+Male,1961,Uncontrolled on other anti-hypertensive drugs,None,Digital,Left,155,102,146,72,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,9,30
+Female,1956,Uncontrolled on other anti-hypertensive drugs,Diabetes,Aneroid,Right,139,86,149,81,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,-10,5
+Female,1949,Uncontrolled on other anti-hypertensive drugs,None,Aneroid,Right,137,82,157,105,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-20,-23
+Female,2004,Newly Diagnosed Hypertensive Patient,High Cholesterol,Aneroid,Right,157,111,163,81,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,-6,30
+Female,1961,Newly Diagnosed Hypertensive Patient,High Cholesterol,Aneroid,Left,122,110,144,71,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,-22,39
+Male,1989,Uncontrolled on other anti-hypertensive drugs,Diabetes,Digital,Right,142,97,140,71,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,2,26
+Female,1953,Newly Diagnosed Hypertensive Patient,Diabetes,Aneroid,Left,151,86,165,84,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,-14,2
+Male,2003,Uncontrolled on other anti-hypertensive drugs,None,Aneroid,Right,164,80,153,92,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,11,-12
+Male,1986,Newly Diagnosed Hypertensive Patient,High Triglycerides,Digital,Left,178,93,134,98,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,44,-5
+Male,1968,Newly Diagnosed Hypertensive Patient,Diabetes,Aneroid,Left,135,111,149,86,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-14,25
+Male,1975,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Aneroid,Right,178,85,122,101,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,56,-16
+Male,1991,Uncontrolled on other anti-hypertensive drugs,High Cholesterol,Aneroid,Right,124,118,113,76,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,11,42
+Male,1946,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Aneroid,Right,123,89,155,99,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,-32,-10
+Female,1968,Uncontrolled on other anti-hypertensive drugs,High Cholesterol,Digital,Right,140,86,123,97,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,17,-11
+Male,1950,Newly Diagnosed Hypertensive Patient,High Cholesterol,Aneroid,Right,159,105,122,83,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,37,22
+Male,1972,Newly Diagnosed Hypertensive Patient,Diabetes,Digital,Left,170,113,136,99,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,34,14
+Male,1945,Newly Diagnosed Hypertensive Patient,Diabetes,Digital,Right,133,109,115,86,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,18,23
+Female,1971,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Aneroid,Right,158,115,126,101,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,32,14
+Female,1990,Newly Diagnosed Hypertensive Patient,High Cholesterol,Aneroid,Left,150,100,145,75,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,5,25
+Male,1997,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Aneroid,Right,133,96,149,93,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,-16,3
+Female,1965,Newly Diagnosed Hypertensive Patient,High Triglycerides,Aneroid,Right,125,112,158,75,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-33,37
+Male,1985,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Digital,Left,131,89,144,96,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-13,-7
+Male,1968,Uncontrolled on other anti-hypertensive drugs,None,Digital,Right,135,91,126,87,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,9,4
+Female,1943,Newly Diagnosed Hypertensive Patient,Hyperuricemia,Digital,Right,136,95,150,93,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,-14,2
+Male,1952,Uncontrolled on other anti-hypertensive drugs,None,Aneroid,Right,164,111,111,106,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,53,5
+Female,1978,Uncontrolled on other anti-hypertensive drugs,None,Digital,Left,142,94,166,93,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-24,1
+Female,1954,Newly Diagnosed Hypertensive Patient,None,Aneroid,Right,133,106,122,107,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,11,-1
+Male,1968,Uncontrolled on other anti-hypertensive drugs,High Triglycerides,Aneroid,Left,126,107,161,103,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,-35,4
+Male,1968,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Aneroid,Right,165,96,111,109,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,54,-13
+Female,1971,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Aneroid,Left,151,81,161,84,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,-10,-3
+Male,1941,Newly Diagnosed Hypertensive Patient,High Triglycerides,Aneroid,Right,134,115,137,80,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,-3,35
+Male,1986,Newly Diagnosed Hypertensive Patient,High Cholesterol,Digital,Left,163,86,152,91,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,11,-5
+Male,1961,Uncontrolled on other anti-hypertensive drugs,Diabetes,Digital,Left,136,92,168,93,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,-32,-1
+Female,1966,Newly Diagnosed Hypertensive Patient,Hyperuricemia,Aneroid,Left,160,94,135,70,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,25,24
+Female,1995,Uncontrolled on other anti-hypertensive drugs,Diabetes,Digital,Left,173,104,131,87,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,42,17
+Male,1960,Uncontrolled on other anti-hypertensive drugs,High Triglycerides,Aneroid,Left,166,102,156,81,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,10,21
+Female,1986,Uncontrolled on other anti-hypertensive drugs,High Cholesterol,Aneroid,Left,163,101,152,97,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,11,4
+Female,1998,Uncontrolled on other anti-hypertensive drugs,High Cholesterol,Aneroid,Right,153,105,164,109,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,-11,-4
+Female,1945,Uncontrolled on other anti-hypertensive drugs,High Cholesterol,Digital,Right,124,112,112,76,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,12,36
+Female,1958,Newly Diagnosed Hypertensive Patient,High Triglycerides,Aneroid,Left,164,90,144,92,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,20,-2
+Female,1996,Uncontrolled on other anti-hypertensive drugs,None,Aneroid,Left,146,89,169,90,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,-23,-1
+Male,1942,Newly Diagnosed Hypertensive Patient,None,Digital,Left,171,104,167,103,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,4,1
+Male,1940,Newly Diagnosed Hypertensive Patient,Diabetes,Digital,Left,142,116,121,80,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,21,36
+Male,1997,Uncontrolled on other anti-hypertensive drugs,None,Digital,Right,159,117,133,91,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,26,26
+Female,1977,Uncontrolled on other anti-hypertensive drugs,None,Aneroid,Left,178,103,114,104,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,64,-1
+Female,1954,Newly Diagnosed Hypertensive Patient,High Cholesterol,Aneroid,Right,133,119,129,98,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,4,21
+Male,1973,Newly Diagnosed Hypertensive Patient,High Cholesterol,Digital,Right,134,112,148,97,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,-14,15
+Female,2000,Newly Diagnosed Hypertensive Patient,Diabetes,Aneroid,Left,162,96,148,87,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,14,9
+Male,1974,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Digital,Left,152,103,122,83,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,30,20
+Male,2003,Newly Diagnosed Hypertensive Patient,Diabetes,Digital,Right,172,116,150,87,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,22,29
+Male,1964,Uncontrolled on other anti-hypertensive drugs,Diabetes,Aneroid,Right,150,81,166,97,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-16,-16
+Female,1963,Uncontrolled on other anti-hypertensive drugs,High Triglycerides,Aneroid,Left,154,111,162,93,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-8,18
+Female,1951,Uncontrolled on other anti-hypertensive drugs,High Triglycerides,Digital,Left,136,103,154,77,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,-18,26
+Male,1957,Newly Diagnosed Hypertensive Patient,Diabetes,Digital,Left,147,88,121,77,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,26,11
+Male,1954,Uncontrolled on other anti-hypertensive drugs,Diabetes,Digital,Right,138,83,122,73,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,16,10
+Male,1966,Uncontrolled on other anti-hypertensive drugs,Diabetes,Digital,Right,165,96,165,96,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,0,0
+Male,1999,Uncontrolled on other anti-hypertensive drugs,None,Aneroid,Left,173,96,119,105,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,54,-9
+Female,1985,Uncontrolled on other anti-hypertensive drugs,High Triglycerides,Digital,Right,142,109,142,74,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,0,35
+Female,1956,Uncontrolled on other anti-hypertensive drugs,Diabetes,Digital,Right,151,119,166,102,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-15,17
+Male,1992,Newly Diagnosed Hypertensive Patient,High Cholesterol,Digital,Left,159,90,149,103,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,10,-13
+Male,1947,Uncontrolled on other anti-hypertensive drugs,High Cholesterol,Aneroid,Left,132,100,163,99,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,-31,1
+Female,1966,Uncontrolled on other anti-hypertensive drugs,None,Aneroid,Right,178,100,125,77,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,53,23
+Female,1985,Newly Diagnosed Hypertensive Patient,None,Digital,Right,139,97,154,108,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,-15,-11
+Male,1989,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Aneroid,Left,154,108,144,95,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,10,13
+Male,1942,Newly Diagnosed Hypertensive Patient,Hyperuricemia,Aneroid,Left,124,103,112,106,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,12,-3
+Male,2003,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Aneroid,Left,128,89,165,103,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,-37,-14
+Female,1983,Newly Diagnosed Hypertensive Patient,None,Digital,Left,148,96,114,76,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,34,20
+Female,1992,Newly Diagnosed Hypertensive Patient,None,Digital,Left,125,97,135,109,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,-10,-12
+Female,1963,Uncontrolled on other anti-hypertensive drugs,None,Aneroid,Right,144,99,120,97,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,24,2
+Male,1999,Uncontrolled on other anti-hypertensive drugs,High Cholesterol,Digital,Right,150,116,116,108,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,34,8
+Male,1942,Uncontrolled on other anti-hypertensive drugs,None,Digital,Right,141,97,162,108,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-21,-11
+Female,1959,Newly Diagnosed Hypertensive Patient,High Cholesterol,Aneroid,Right,121,96,165,97,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,-44,-1
+Female,1985,Newly Diagnosed Hypertensive Patient,Hyperuricemia,Aneroid,Left,164,88,119,83,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,45,5
+Male,1954,Newly Diagnosed Hypertensive Patient,Hyperuricemia,Digital,Left,124,93,151,107,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-27,-14
+Female,1964,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Aneroid,Left,179,108,161,73,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,18,35
+Female,1956,Newly Diagnosed Hypertensive Patient,Diabetes,Digital,Right,146,110,143,87,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,3,23
+Male,1948,Newly Diagnosed Hypertensive Patient,Diabetes,Digital,Right,144,83,112,94,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,32,-11
+Female,1977,Uncontrolled on other anti-hypertensive drugs,High Triglycerides,Aneroid,Right,127,97,117,76,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,10,21
+Male,1987,Newly Diagnosed Hypertensive Patient,High Triglycerides,Digital,Left,174,99,140,107,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,34,-8
+Male,1999,Newly Diagnosed Hypertensive Patient,High Triglycerides,Digital,Right,120,88,120,97,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,0,-9
+Male,2002,Uncontrolled on other anti-hypertensive drugs,Diabetes,Aneroid,Left,139,92,154,74,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-15,18
+Male,1941,Newly Diagnosed Hypertensive Patient,Diabetes,Aneroid,Left,163,94,116,72,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,47,22
+Male,1950,Uncontrolled on other anti-hypertensive drugs,High Triglycerides,Aneroid,Left,142,106,154,100,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,-12,6
+Male,2003,Uncontrolled on other anti-hypertensive drugs,High Triglycerides,Digital,Left,151,94,111,89,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,40,5
+Male,1960,Uncontrolled on other anti-hypertensive drugs,None,Aneroid,Left,130,107,115,88,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,15,19
+Female,1957,Uncontrolled on other anti-hypertensive drugs,High Triglycerides,Aneroid,Left,158,116,150,80,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,8,36
+Male,2003,Uncontrolled on other anti-hypertensive drugs,None,Aneroid,Right,166,98,141,109,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,25,-11
+Male,1977,Newly Diagnosed Hypertensive Patient,High Cholesterol,Aneroid,Left,173,105,129,72,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,44,33
+Female,1971,Newly Diagnosed Hypertensive Patient,Diabetes,Digital,Left,143,105,166,92,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,-23,13
+Female,1950,Uncontrolled on other anti-hypertensive drugs,High Triglycerides,Digital,Right,130,104,143,76,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-13,28
+Female,1984,Uncontrolled on other anti-hypertensive drugs,Diabetes,Aneroid,Left,148,105,159,92,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,-11,13
+Male,1972,Newly Diagnosed Hypertensive Patient,Diabetes,Digital,Right,173,105,125,76,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,48,29
+Female,1980,Uncontrolled on other anti-hypertensive drugs,Diabetes,Aneroid,Right,145,107,134,103,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,11,4
+Male,1947,Uncontrolled on other anti-hypertensive drugs,High Cholesterol,Aneroid,Right,135,97,121,88,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,14,9
+Male,1950,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Digital,Left,154,111,116,78,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,38,33
+Male,1990,Newly Diagnosed Hypertensive Patient,High Triglycerides,Digital,Left,139,82,148,87,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,-9,-5
+Male,1980,Newly Diagnosed Hypertensive Patient,Hyperuricemia,Aneroid,Right,165,81,126,94,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,39,-13
+Female,1956,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Aneroid,Left,122,112,154,83,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-32,29
+Female,1985,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Digital,Left,120,98,120,94,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,0,4
+Male,1971,Newly Diagnosed Hypertensive Patient,Diabetes,Aneroid,Right,177,96,115,88,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,62,8
+Male,1993,Newly Diagnosed Hypertensive Patient,None,Digital,Right,172,112,132,108,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,40,4
+Male,1959,Uncontrolled on other anti-hypertensive drugs,Diabetes,Aneroid,Left,166,91,136,84,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,30,7
+Female,1972,Uncontrolled on other anti-hypertensive drugs,Diabetes,Aneroid,Right,120,82,155,85,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-35,-3
+Male,1979,Newly Diagnosed Hypertensive Patient,Hyperuricemia,Digital,Right,136,105,115,96,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,21,9
+Male,1971,Newly Diagnosed Hypertensive Patient,Diabetes,Digital,Right,121,114,147,109,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,-26,5
+Female,1941,Newly Diagnosed Hypertensive Patient,Hyperuricemia,Digital,Left,148,87,111,79,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,37,8
+Female,1972,Uncontrolled on other anti-hypertensive drugs,None,Digital,Left,139,115,131,73,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,8,42
+Male,1969,Newly Diagnosed Hypertensive Patient,High Triglycerides,Digital,Left,125,86,129,88,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,-4,-2
+Female,1972,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Digital,Right,127,115,134,97,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,-7,18
+Female,1965,Newly Diagnosed Hypertensive Patient,None,Digital,Left,148,95,124,90,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,24,5
+Male,1961,Newly Diagnosed Hypertensive Patient,High Triglycerides,Aneroid,Right,167,103,169,83,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-2,20
+Female,1977,Newly Diagnosed Hypertensive Patient,High Cholesterol,Aneroid,Left,170,80,158,102,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,12,-22
+Male,1985,Newly Diagnosed Hypertensive Patient,Hyperuricemia,Aneroid,Left,152,104,138,79,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,14,25
+Female,1954,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Digital,Right,122,89,117,88,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,5,1
+Male,1983,Uncontrolled on other anti-hypertensive drugs,High Cholesterol,Digital,Left,179,95,146,99,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,33,-4
+Male,1988,Newly Diagnosed Hypertensive Patient,High Cholesterol,Digital,Right,154,95,158,91,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,-4,4
+Male,2000,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Aneroid,Left,124,87,161,72,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-37,15
+Female,1945,Newly Diagnosed Hypertensive Patient,High Cholesterol,Digital,Left,146,108,142,106,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,4,2
+Male,1948,Newly Diagnosed Hypertensive Patient,Diabetes,Digital,Right,163,118,131,87,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,32,31
+Female,1945,Newly Diagnosed Hypertensive Patient,High Triglycerides,Aneroid,Right,131,107,159,80,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,-28,27
+Male,1971,Newly Diagnosed Hypertensive Patient,High Triglycerides,Digital,Right,139,85,156,71,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,-17,14
+Male,1980,Uncontrolled on other anti-hypertensive drugs,High Triglycerides,Aneroid,Left,164,95,114,81,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,50,14
+Female,1947,Newly Diagnosed Hypertensive Patient,Diabetes,Aneroid,Left,139,99,148,75,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,-9,24
+Male,1989,Newly Diagnosed Hypertensive Patient,High Cholesterol,Digital,Left,128,95,127,109,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,1,-14
+Male,2001,Uncontrolled on other anti-hypertensive drugs,None,Digital,Right,158,86,147,98,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,11,-12
+Female,2001,Newly Diagnosed Hypertensive Patient,High Cholesterol,Digital,Right,123,93,163,99,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,-40,-6
+Male,1946,Newly Diagnosed Hypertensive Patient,Hyperuricemia,Aneroid,Right,170,105,162,71,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,8,34
+Male,1943,Newly Diagnosed Hypertensive Patient,High Triglycerides,Aneroid,Left,173,105,146,78,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,27,27
+Male,1945,Uncontrolled on other anti-hypertensive drugs,High Cholesterol,Aneroid,Left,138,93,139,71,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,-1,22
+Male,1997,Newly Diagnosed Hypertensive Patient,None,Digital,Right,157,86,160,98,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,-3,-12
+Female,1961,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Digital,Left,146,112,140,102,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,6,10
+Female,1965,Newly Diagnosed Hypertensive Patient,Diabetes,Digital,Right,164,105,119,79,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,45,26
+Male,1942,Newly Diagnosed Hypertensive Patient,Diabetes,Digital,Left,162,99,124,103,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,38,-4
+Female,1980,Uncontrolled on other anti-hypertensive drugs,None,Aneroid,Left,132,82,151,77,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,-19,5
+Male,1999,Newly Diagnosed Hypertensive Patient,Hyperuricemia,Aneroid,Right,132,83,168,106,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-36,-23
+Female,1953,Newly Diagnosed Hypertensive Patient,High Triglycerides,Aneroid,Left,179,105,157,102,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,22,3
+Male,1951,Uncontrolled on other anti-hypertensive drugs,High Cholesterol,Aneroid,Left,176,90,153,75,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,23,15
+Male,1951,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Digital,Right,141,81,127,109,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,14,-28
+Male,1952,Uncontrolled on other anti-hypertensive drugs,Diabetes,Digital,Right,147,93,132,88,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,15,5
+Male,1964,Uncontrolled on other anti-hypertensive drugs,None,Digital,Left,171,109,142,101,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,29,8
+Male,1984,Uncontrolled on other anti-hypertensive drugs,None,Aneroid,Right,166,91,125,96,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,41,-5
+Male,1958,Newly Diagnosed Hypertensive Patient,High Cholesterol,Aneroid,Left,172,105,163,70,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,9,35
+Female,1994,Uncontrolled on other anti-hypertensive drugs,None,Digital,Right,164,112,147,102,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,17,10
+Male,1984,Newly Diagnosed Hypertensive Patient,None,Digital,Left,141,92,144,109,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,-3,-17
+Female,1947,Newly Diagnosed Hypertensive Patient,Hyperuricemia,Aneroid,Left,162,93,143,101,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,19,-8
+Male,1992,Newly Diagnosed Hypertensive Patient,High Triglycerides,Digital,Right,138,103,137,74,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,1,29
+Female,1994,Uncontrolled on other anti-hypertensive drugs,High Cholesterol,Aneroid,Left,127,113,111,86,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,16,27
+Female,1971,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Aneroid,Left,171,105,139,77,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,32,28
+Female,1990,Newly Diagnosed Hypertensive Patient,High Triglycerides,Aneroid,Right,127,100,122,103,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,5,-3
+Male,1983,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Digital,Right,161,107,150,78,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,11,29
+Male,1957,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Digital,Left,145,115,125,92,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,20,23
+Female,1961,Uncontrolled on other anti-hypertensive drugs,None,Aneroid,Right,167,119,168,104,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,-1,15
+Male,1976,Uncontrolled on other anti-hypertensive drugs,High Triglycerides,Digital,Right,170,81,114,76,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,56,5
+Female,1995,Newly Diagnosed Hypertensive Patient,High Cholesterol,Aneroid,Left,145,88,164,84,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,-19,4
+Male,1998,Newly Diagnosed Hypertensive Patient,High Cholesterol,Aneroid,Left,142,102,137,89,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,5,13
+Female,1942,Uncontrolled on other anti-hypertensive drugs,High Triglycerides,Aneroid,Right,162,94,162,94,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,0,0
+Female,1967,Newly Diagnosed Hypertensive Patient,None,Aneroid,Right,132,92,148,72,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-16,20
+Male,1974,Uncontrolled on other anti-hypertensive drugs,Diabetes,Digital,Right,147,102,154,93,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-7,9
+Female,2000,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Aneroid,Left,128,96,129,103,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,-1,-7
+Male,1993,Newly Diagnosed Hypertensive Patient,None,Aneroid,Left,139,81,133,91,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,6,-10
+Female,2002,Newly Diagnosed Hypertensive Patient,High Triglycerides,Digital,Left,175,99,136,80,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,39,19
+Female,1946,Newly Diagnosed Hypertensive Patient,Hyperuricemia,Aneroid,Left,138,99,139,77,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-1,22
+Male,1988,Uncontrolled on other anti-hypertensive drugs,High Cholesterol,Aneroid,Left,167,82,167,108,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,0,-26
+Male,1970,Newly Diagnosed Hypertensive Patient,Diabetes,Digital,Left,158,91,154,104,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,4,-13
+Male,1997,Uncontrolled on other anti-hypertensive drugs,High Cholesterol,Digital,Left,170,119,136,107,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,34,12
+Female,2000,Newly Diagnosed Hypertensive Patient,High Triglycerides,Digital,Right,131,81,135,77,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-4,4
+Male,1963,Newly Diagnosed Hypertensive Patient,Hyperuricemia,Aneroid,Right,134,115,116,106,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,18,9
+Female,1959,Uncontrolled on other anti-hypertensive drugs,High Triglycerides,Digital,Left,150,93,151,96,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,-1,-3
+Female,1976,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Digital,Left,174,95,156,97,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,18,-2
+Male,1943,Uncontrolled on other anti-hypertensive drugs,None,Aneroid,Left,133,98,162,109,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-29,-11
+Male,1959,Uncontrolled on other anti-hypertensive drugs,Diabetes,Aneroid,Right,130,113,168,103,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,-38,10
+Female,1999,Uncontrolled on other anti-hypertensive drugs,None,Aneroid,Left,145,85,147,101,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-2,-16
+Female,1963,Uncontrolled on other anti-hypertensive drugs,None,Aneroid,Right,161,92,114,84,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,47,8
+Male,1989,Uncontrolled on other anti-hypertensive drugs,High Triglycerides,Aneroid,Right,146,115,132,86,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,14,29
+Male,1988,Uncontrolled on other anti-hypertensive drugs,Diabetes,Digital,Right,130,101,137,102,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,-7,-1
+Male,1990,Newly Diagnosed Hypertensive Patient,Hyperuricemia,Digital,Right,157,97,143,85,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,14,12
+Male,1975,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Digital,Right,153,91,162,98,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,-9,-7
+Male,1973,Uncontrolled on other anti-hypertensive drugs,High Cholesterol,Aneroid,Left,162,109,124,78,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,38,31
+Female,1975,Newly Diagnosed Hypertensive Patient,Hyperuricemia,Aneroid,Left,138,119,141,102,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,-3,17
+Female,1945,Uncontrolled on other anti-hypertensive drugs,High Triglycerides,Aneroid,Right,125,86,135,98,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-10,-12
+Female,1978,Newly Diagnosed Hypertensive Patient,None,Digital,Left,165,111,157,82,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,8,29
+Female,1981,Newly Diagnosed Hypertensive Patient,None,Digital,Right,171,98,140,90,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,31,8
+Male,1997,Uncontrolled on other anti-hypertensive drugs,None,Aneroid,Right,157,85,128,90,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,29,-5
+Male,1951,Newly Diagnosed Hypertensive Patient,Diabetes,Digital,Left,168,99,118,74,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,50,25
+Male,1942,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Aneroid,Left,161,106,138,79,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,23,27
+Female,1957,Newly Diagnosed Hypertensive Patient,High Triglycerides,Digital,Left,147,116,163,75,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,-16,41
+Female,1979,Newly Diagnosed Hypertensive Patient,Diabetes,Digital,Left,120,86,167,82,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-47,4
+Male,1960,Newly Diagnosed Hypertensive Patient,High Cholesterol,Digital,Left,154,84,160,70,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,-6,14
+Male,1954,Uncontrolled on other anti-hypertensive drugs,High Triglycerides,Aneroid,Right,159,90,148,89,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,11,1
+Female,1965,Uncontrolled on other anti-hypertensive drugs,High Triglycerides,Digital,Left,127,94,113,77,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,14,17
+Female,1947,Newly Diagnosed Hypertensive Patient,High Triglycerides,Digital,Left,178,82,112,79,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,66,3
+Male,1981,Newly Diagnosed Hypertensive Patient,None,Aneroid,Left,171,84,165,78,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,6,6
+Male,1983,Uncontrolled on other anti-hypertensive drugs,High Triglycerides,Digital,Right,173,102,138,72,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,35,30
+Female,1953,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Aneroid,Left,166,116,161,80,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,5,36
+Male,1941,Newly Diagnosed Hypertensive Patient,High Triglycerides,Aneroid,Right,175,88,120,81,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,55,7
+Male,1976,Newly Diagnosed Hypertensive Patient,None,Aneroid,Left,126,94,142,79,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-16,15
+Male,1977,Uncontrolled on other anti-hypertensive drugs,High Triglycerides,Aneroid,Left,130,82,147,94,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-17,-12
+Female,1980,Uncontrolled on other anti-hypertensive drugs,High Cholesterol,Aneroid,Right,158,108,167,94,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,-9,14
+Female,2001,Uncontrolled on other anti-hypertensive drugs,High Cholesterol,Digital,Left,123,85,120,80,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,3,5
+Female,1999,Uncontrolled on other anti-hypertensive drugs,None,Aneroid,Left,144,96,136,105,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,8,-9
+Female,1953,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Aneroid,Right,131,105,142,108,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-11,-3
+Female,1941,Newly Diagnosed Hypertensive Patient,Hyperuricemia,Aneroid,Left,145,100,130,95,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,15,5
+Female,1956,Uncontrolled on other anti-hypertensive drugs,Diabetes,Aneroid,Right,157,87,148,83,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,9,4
+Female,1967,Newly Diagnosed Hypertensive Patient,None,Digital,Right,165,100,140,108,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,25,-8
+Male,1974,Uncontrolled on other anti-hypertensive drugs,High Triglycerides,Aneroid,Right,131,90,147,109,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,-16,-19
+Male,1944,Newly Diagnosed Hypertensive Patient,None,Digital,Right,162,117,155,70,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,7,47
+Male,2004,Uncontrolled on other anti-hypertensive drugs,Diabetes,Aneroid,Right,170,87,111,73,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,59,14
+Male,1979,Uncontrolled on other anti-hypertensive drugs,None,Digital,Left,172,103,136,99,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,36,4
+Male,1995,Newly Diagnosed Hypertensive Patient,None,Aneroid,Left,156,114,145,81,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,11,33
+Male,1975,Newly Diagnosed Hypertensive Patient,Diabetes,Aneroid,Left,165,93,120,104,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,45,-11
+Male,1984,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Digital,Right,172,93,156,82,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,16,11
+Female,1962,Uncontrolled on other anti-hypertensive drugs,High Triglycerides,Aneroid,Right,143,89,127,100,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,16,-11
+Female,1986,Uncontrolled on other anti-hypertensive drugs,Diabetes,Digital,Right,135,91,168,107,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,-33,-16
+Male,1970,Uncontrolled on other anti-hypertensive drugs,High Cholesterol,Aneroid,Right,176,117,110,92,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,66,25
+Male,1950,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Digital,Left,132,113,144,73,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-12,40
+Female,1949,Newly Diagnosed Hypertensive Patient,High Cholesterol,Aneroid,Left,144,89,144,85,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,0,4
+Male,1953,Newly Diagnosed Hypertensive Patient,Hyperuricemia,Aneroid,Right,173,96,140,76,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,33,20
+Male,1949,Uncontrolled on other anti-hypertensive drugs,High Triglycerides,Digital,Right,173,96,137,91,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,36,5
+Female,1940,Newly Diagnosed Hypertensive Patient,High Triglycerides,Aneroid,Left,176,82,148,98,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,28,-16
+Male,1944,Newly Diagnosed Hypertensive Patient,None,Aneroid,Right,171,110,110,80,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,61,30
+Female,1959,Newly Diagnosed Hypertensive Patient,High Cholesterol,Aneroid,Right,173,80,134,102,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,39,-22
+Male,1947,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Aneroid,Right,123,91,152,98,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-29,-7
+Female,1982,Newly Diagnosed Hypertensive Patient,High Triglycerides,Aneroid,Left,130,118,147,108,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,-17,10
+Female,1940,Uncontrolled on other anti-hypertensive drugs,Diabetes,Aneroid,Left,151,83,129,81,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,22,2
+Female,1996,Newly Diagnosed Hypertensive Patient,High Triglycerides,Digital,Right,168,92,112,76,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,56,16
+Male,2003,Uncontrolled on other anti-hypertensive drugs,Diabetes,Digital,Left,126,113,160,108,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-34,5
+Female,1967,Newly Diagnosed Hypertensive Patient,Hyperuricemia,Digital,Right,165,100,111,95,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,54,5
+Male,1976,Uncontrolled on other anti-hypertensive drugs,High Triglycerides,Aneroid,Right,177,101,127,109,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,50,-8
+Male,1986,Uncontrolled on other anti-hypertensive drugs,High Triglycerides,Digital,Left,130,83,153,78,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-23,5
+Male,1976,Newly Diagnosed Hypertensive Patient,Hyperuricemia,Aneroid,Right,147,97,119,103,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,28,-6
+Male,1988,Uncontrolled on other anti-hypertensive drugs,High Triglycerides,Aneroid,Right,173,84,114,82,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,59,2
+Female,1983,Uncontrolled on other anti-hypertensive drugs,Diabetes,Aneroid,Left,160,98,118,105,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,42,-7
+Female,1995,Uncontrolled on other anti-hypertensive drugs,High Triglycerides,Aneroid,Right,142,81,111,94,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,31,-13
+Male,1967,Uncontrolled on other anti-hypertensive drugs,High Cholesterol,Digital,Right,164,91,143,93,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,21,-2
+Male,1945,Uncontrolled on other anti-hypertensive drugs,None,Aneroid,Right,142,96,169,86,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-27,10
+Female,2000,Uncontrolled on other anti-hypertensive drugs,Diabetes,Digital,Left,169,89,147,71,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,22,18
+Male,1959,Uncontrolled on other anti-hypertensive drugs,High Cholesterol,Aneroid,Right,147,113,140,82,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,7,31
+Female,1941,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Digital,Left,162,85,119,100,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,43,-15
+Male,1976,Newly Diagnosed Hypertensive Patient,Diabetes,Digital,Right,166,87,159,98,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,7,-11
+Male,1959,Newly Diagnosed Hypertensive Patient,None,Digital,Right,176,90,121,97,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,55,-7
+Female,1965,Uncontrolled on other anti-hypertensive drugs,None,Digital,Right,145,91,145,96,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,0,-5
+Male,1968,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Digital,Right,144,88,163,84,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,-19,4
+Female,1940,Newly Diagnosed Hypertensive Patient,Hyperuricemia,Digital,Left,173,81,130,100,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,43,-19
+Male,1974,Newly Diagnosed Hypertensive Patient,Diabetes,Aneroid,Left,148,87,158,109,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-10,-22
+Male,1998,Newly Diagnosed Hypertensive Patient,High Triglycerides,Digital,Right,138,90,156,84,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,-18,6
+Male,1972,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Aneroid,Right,152,115,115,102,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,37,13
+Female,1990,Newly Diagnosed Hypertensive Patient,High Triglycerides,Digital,Right,155,89,157,89,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-2,0
+Male,1951,Uncontrolled on other anti-hypertensive drugs,High Cholesterol,Aneroid,Right,133,100,158,81,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-25,19
+Male,1959,Uncontrolled on other anti-hypertensive drugs,None,Digital,Right,133,99,112,106,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,21,-7
+Male,1992,Newly Diagnosed Hypertensive Patient,High Triglycerides,Digital,Right,154,87,119,78,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,35,9
+Male,1982,Uncontrolled on other anti-hypertensive drugs,None,Aneroid,Right,149,115,114,92,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,35,23
+Female,1989,Uncontrolled on other anti-hypertensive drugs,High Triglycerides,Digital,Right,147,108,155,77,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,-8,31
+Female,1968,Uncontrolled on other anti-hypertensive drugs,High Cholesterol,Digital,Left,136,91,135,101,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,1,-10
+Male,1996,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Digital,Left,122,93,130,83,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,-8,10
+Female,1978,Newly Diagnosed Hypertensive Patient,High Cholesterol,Aneroid,Left,135,100,154,96,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,-19,4
+Male,1995,Newly Diagnosed Hypertensive Patient,Hyperuricemia,Digital,Right,165,101,135,94,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,30,7
+Male,1982,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Aneroid,Right,149,100,147,82,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,2,18
+Male,1989,Uncontrolled on other anti-hypertensive drugs,None,Digital,Right,171,109,153,90,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,18,19
+Female,1962,Newly Diagnosed Hypertensive Patient,High Cholesterol,Digital,Left,148,118,135,100,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,13,18
+Female,1983,Uncontrolled on other anti-hypertensive drugs,High Triglycerides,Aneroid,Right,164,99,117,106,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,47,-7
+Female,1977,Newly Diagnosed Hypertensive Patient,High Cholesterol,Digital,Left,134,103,114,74,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,20,29
+Female,1962,Uncontrolled on other anti-hypertensive drugs,None,Digital,Right,165,102,124,82,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,41,20
+Female,1984,Uncontrolled on other anti-hypertensive drugs,Hyperuricemia,Aneroid,Left,175,86,168,97,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,7,-11
+Female,1991,Newly Diagnosed Hypertensive Patient,None,Digital,Left,144,88,125,94,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,19,-6
+Female,1989,Newly Diagnosed Hypertensive Patient,Diabetes,Aneroid,Left,170,80,110,104,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,60,-24
+Female,1947,Newly Diagnosed Hypertensive Patient,Diabetes,Aneroid,Right,157,105,125,108,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,32,-3
+Female,1940,Newly Diagnosed Hypertensive Patient,High Triglycerides,Aneroid,Left,161,117,146,76,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,15,41
+Male,1947,Uncontrolled on other anti-hypertensive drugs,None,Digital,Right,178,117,112,107,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,66,10
+Female,1968,Newly Diagnosed Hypertensive Patient,High Triglycerides,Aneroid,Right,166,101,161,101,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,5,0
+Female,1944,Uncontrolled on other anti-hypertensive drugs,High Triglycerides,Aneroid,Right,172,89,156,72,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,16,17
+Female,1986,Newly Diagnosed Hypertensive Patient,Diabetes,Digital,Right,173,85,140,108,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,33,-23
+Female,1973,Newly Diagnosed Hypertensive Patient,High Triglycerides,Aneroid,Right,171,96,122,106,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,49,-10
+Female,2004,Uncontrolled on other anti-hypertensive drugs,Diabetes,Digital,Left,177,117,165,91,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,12,26
+Female,1994,Newly Diagnosed Hypertensive Patient,Hyperuricemia,Digital,Right,157,103,125,77,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,32,26
+Female,1982,Newly Diagnosed Hypertensive Patient,None,Digital,Right,142,89,164,86,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,-22,3
+Female,1969,Newly Diagnosed Hypertensive Patient,High Triglycerides,Digital,Right,144,87,152,96,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,-8,-9
+Female,1956,Newly Diagnosed Hypertensive Patient,Diabetes,Aneroid,Right,161,100,130,102,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,31,-2
+Female,1965,Uncontrolled on other anti-hypertensive drugs,High Cholesterol,Aneroid,Right,126,85,111,86,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,15,-1
+Female,1947,Uncontrolled on other anti-hypertensive drugs,High Triglycerides,Aneroid,Left,141,100,163,81,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,-22,19
+Male,1986,Newly Diagnosed Hypertensive Patient,Hyperuricemia,Aneroid,Left,136,118,136,96,Amlodipine + Losartan (Amlife) 50 mg / 5 mg OD,0,22
+Male,1985,Newly Diagnosed Hypertensive Patient,Hyperuricemia,Aneroid,Right,137,103,147,77,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,-10,26
+Female,1972,Newly Diagnosed Hypertensive Patient,High Cholesterol,Digital,Left,168,112,135,92,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,33,20
+Female,1940,Uncontrolled on other anti-hypertensive drugs,Diabetes,Aneroid,Left,160,97,167,98,Amlodipine + Losartan (Amlife) 100 mg / 10 mg OD,-7,-1
+Male,1958,Uncontrolled on other anti-hypertensive drugs,High Triglycerides,Aneroid,Right,129,107,168,89,Amlodipine + Losartan (Amlife) 100 mg / 5 mg OD,-39,18
